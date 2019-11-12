@@ -1,0 +1,3001 @@
+"Day","Hour","Metro","scaled"
+2,0,"Atlanta",4.4
+2,0,"Boston",4.1
+2,0,"Charlotte",3
+2,0,"Chicago",3.7
+2,0,"Cleveland",3.9
+2,0,"Dallas",3.5
+2,0,"Denver",3.3
+2,0,"Detroit",3.1
+2,0,"Houston",3.1
+2,0,"Los Angeles",4.9
+2,0,"Miami",6.1
+2,0,"Minneapolis",3.9
+2,0,"New York",8
+2,0,"Orlando",6.4
+2,0,"Philadelphia",4.1
+2,0,"Phoenix",3.3
+2,0,"Pittsburgh",4
+2,0,"Portland",2.9
+2,0,"Raleigh",3.1
+2,0,"Sacramento",3.5
+2,0,"San Francisco",4.4
+2,0,"Seattle",2.4
+2,0,"St. Louis",4
+2,0,"Tampa-St. Petersburg",3.1
+2,0,"Washington DC",4.2
+2,1,"Atlanta",1.4
+2,1,"Boston",1.3
+2,1,"Charlotte",0.7
+2,1,"Chicago",1
+2,1,"Cleveland",1.2
+2,1,"Dallas",0.8
+2,1,"Denver",0.9
+2,1,"Detroit",1
+2,1,"Houston",0.7
+2,1,"Los Angeles",1.3
+2,1,"Miami",2.1
+2,1,"Minneapolis",0.8
+2,1,"New York",2.5
+2,1,"Orlando",1.4
+2,1,"Philadelphia",1.4
+2,1,"Phoenix",1
+2,1,"Pittsburgh",1.1
+2,1,"Portland",0.7
+2,1,"Raleigh",1.5
+2,1,"Sacramento",1.1
+2,1,"San Francisco",0.4
+2,1,"Seattle",0.4
+2,1,"St. Louis",1.2
+2,1,"Tampa-St. Petersburg",0.9
+2,1,"Washington DC",1.1
+2,2,"Atlanta",0
+2,2,"Boston",0
+2,2,"Charlotte",0
+2,2,"Chicago",0
+2,2,"Cleveland",0
+2,2,"Dallas",0
+2,2,"Denver",0
+2,2,"Detroit",0
+2,2,"Houston",0
+2,2,"Los Angeles",0
+2,2,"Miami",0
+2,2,"Minneapolis",0
+2,2,"New York",0
+2,2,"Orlando",0
+2,2,"Philadelphia",0
+2,2,"Phoenix",0
+2,2,"Pittsburgh",0
+2,2,"Portland",0
+2,2,"Raleigh",0
+2,2,"Sacramento",0
+2,2,"San Francisco",0
+2,2,"Seattle",0
+2,2,"St. Louis",0
+2,2,"Tampa-St. Petersburg",0
+2,2,"Washington DC",0
+2,3,"Atlanta",0.6
+2,3,"Boston",1.2
+2,3,"Charlotte",0.7
+2,3,"Chicago",1.6
+2,3,"Cleveland",0
+2,3,"Dallas",0.7
+2,3,"Denver",1.3
+2,3,"Detroit",0.6
+2,3,"Houston",0.8
+2,3,"Los Angeles",1.2
+2,3,"Miami",0.6
+2,3,"Minneapolis",0.6
+2,3,"New York",0.3
+2,3,"Orlando",1.2
+2,3,"Philadelphia",0.6
+2,3,"Phoenix",1.5
+2,3,"Pittsburgh",1.2
+2,3,"Portland",1.9
+2,3,"Raleigh",1
+2,3,"Sacramento",1.8
+2,3,"San Francisco",2.7
+2,3,"Seattle",1.5
+2,3,"St. Louis",0.9
+2,3,"Tampa-St. Petersburg",1
+2,3,"Washington DC",1.3
+2,4,"Atlanta",4.5
+2,4,"Boston",6
+2,4,"Charlotte",3.9
+2,4,"Chicago",8.1
+2,4,"Cleveland",2.8
+2,4,"Dallas",5
+2,4,"Denver",5.3
+2,4,"Detroit",4.1
+2,4,"Houston",5.3
+2,4,"Los Angeles",9.3
+2,4,"Miami",4.4
+2,4,"Minneapolis",4.1
+2,4,"New York",5.9
+2,4,"Orlando",5.4
+2,4,"Philadelphia",4.3
+2,4,"Phoenix",8.4
+2,4,"Pittsburgh",4.9
+2,4,"Portland",6.6
+2,4,"Raleigh",4
+2,4,"Sacramento",7.1
+2,4,"San Francisco",13.1
+2,4,"Seattle",9.3
+2,4,"St. Louis",4.6
+2,4,"Tampa-St. Petersburg",4.8
+2,4,"Washington DC",8.6
+2,5,"Atlanta",16.6
+2,5,"Boston",22.5
+2,5,"Charlotte",13.2
+2,5,"Chicago",24.1
+2,5,"Cleveland",13
+2,5,"Dallas",16.3
+2,5,"Denver",16.2
+2,5,"Detroit",14.7
+2,5,"Houston",17.7
+2,5,"Los Angeles",27.2
+2,5,"Miami",15.4
+2,5,"Minneapolis",14.7
+2,5,"New York",21.7
+2,5,"Orlando",16
+2,5,"Philadelphia",16.1
+2,5,"Phoenix",21.9
+2,5,"Pittsburgh",16.3
+2,5,"Portland",15.8
+2,5,"Raleigh",12.3
+2,5,"Sacramento",14.6
+2,5,"San Francisco",26.3
+2,5,"Seattle",24.8
+2,5,"St. Louis",15.7
+2,5,"Tampa-St. Petersburg",15.5
+2,5,"Washington DC",25.3
+2,6,"Atlanta",48.6
+2,6,"Boston",64.6
+2,6,"Charlotte",47.7
+2,6,"Chicago",56.7
+2,6,"Cleveland",46
+2,6,"Dallas",49.9
+2,6,"Denver",53.2
+2,6,"Detroit",48.1
+2,6,"Houston",50.1
+2,6,"Los Angeles",63.3
+2,6,"Miami",55.1
+2,6,"Minneapolis",48.2
+2,6,"New York",61.7
+2,6,"Orlando",48.9
+2,6,"Philadelphia",54.6
+2,6,"Phoenix",57.8
+2,6,"Pittsburgh",52.4
+2,6,"Portland",49.1
+2,6,"Raleigh",49
+2,6,"Sacramento",45.2
+2,6,"San Francisco",52.4
+2,6,"Seattle",58.1
+2,6,"St. Louis",51.5
+2,6,"Tampa-St. Petersburg",52.6
+2,6,"Washington DC",58.4
+2,7,"Atlanta",74.4
+2,7,"Boston",96.3
+2,7,"Charlotte",79.3
+2,7,"Chicago",80.8
+2,7,"Cleveland",82.2
+2,7,"Dallas",77.7
+2,7,"Denver",88.5
+2,7,"Detroit",82.7
+2,7,"Houston",76.3
+2,7,"Los Angeles",90.5
+2,7,"Miami",97.9
+2,7,"Minneapolis",82.2
+2,7,"New York",99
+2,7,"Orlando",79.8
+2,7,"Philadelphia",90.9
+2,7,"Phoenix",92.5
+2,7,"Pittsburgh",86.6
+2,7,"Portland",81.9
+2,7,"Raleigh",83.4
+2,7,"Sacramento",76.5
+2,7,"San Francisco",78.1
+2,7,"Seattle",89.7
+2,7,"St. Louis",83.1
+2,7,"Tampa-St. Petersburg",88.2
+2,7,"Washington DC",82.4
+2,8,"Atlanta",72.7
+2,8,"Boston",87.3
+2,8,"Charlotte",79.5
+2,8,"Chicago",81.2
+2,8,"Cleveland",80.7
+2,8,"Dallas",78.6
+2,8,"Denver",84.9
+2,8,"Detroit",80.7
+2,8,"Houston",78.4
+2,8,"Los Angeles",85.5
+2,8,"Miami",100
+2,8,"Minneapolis",75.9
+2,8,"New York",94.6
+2,8,"Orlando",84.2
+2,8,"Philadelphia",86.3
+2,8,"Phoenix",85.1
+2,8,"Pittsburgh",81.5
+2,8,"Portland",75.2
+2,8,"Raleigh",84.3
+2,8,"Sacramento",75
+2,8,"San Francisco",80.4
+2,8,"Seattle",82
+2,8,"St. Louis",82.2
+2,8,"Tampa-St. Petersburg",87.5
+2,8,"Washington DC",78.7
+2,9,"Atlanta",77
+2,9,"Boston",77
+2,9,"Charlotte",79.5
+2,9,"Chicago",76.4
+2,9,"Cleveland",80.4
+2,9,"Dallas",75.9
+2,9,"Denver",76.6
+2,9,"Detroit",75.1
+2,9,"Houston",78.9
+2,9,"Los Angeles",78.3
+2,9,"Miami",95
+2,9,"Minneapolis",70.7
+2,9,"New York",83.5
+2,9,"Orlando",88.4
+2,9,"Philadelphia",79.4
+2,9,"Phoenix",78.7
+2,9,"Pittsburgh",81.6
+2,9,"Portland",70.5
+2,9,"Raleigh",84.5
+2,9,"Sacramento",73.5
+2,9,"San Francisco",78.2
+2,9,"Seattle",73.2
+2,9,"St. Louis",81.3
+2,9,"Tampa-St. Petersburg",88.3
+2,9,"Washington DC",77.1
+2,10,"Atlanta",71.5
+2,10,"Boston",66.1
+2,10,"Charlotte",73.1
+2,10,"Chicago",66.2
+2,10,"Cleveland",71.1
+2,10,"Dallas",67.1
+2,10,"Denver",64.8
+2,10,"Detroit",61.3
+2,10,"Houston",70
+2,10,"Los Angeles",71.1
+2,10,"Miami",79.1
+2,10,"Minneapolis",58.4
+2,10,"New York",67.6
+2,10,"Orlando",80.4
+2,10,"Philadelphia",67
+2,10,"Phoenix",67.9
+2,10,"Pittsburgh",67.7
+2,10,"Portland",66.5
+2,10,"Raleigh",73.7
+2,10,"Sacramento",70.8
+2,10,"San Francisco",72.5
+2,10,"Seattle",63.1
+2,10,"St. Louis",69.4
+2,10,"Tampa-St. Petersburg",76.1
+2,10,"Washington DC",67.8
+2,11,"Atlanta",73.8
+2,11,"Boston",71.7
+2,11,"Charlotte",77.3
+2,11,"Chicago",68.5
+2,11,"Cleveland",72.1
+2,11,"Dallas",71.8
+2,11,"Denver",71.6
+2,11,"Detroit",63.4
+2,11,"Houston",74.7
+2,11,"Los Angeles",75.1
+2,11,"Miami",79
+2,11,"Minneapolis",61.4
+2,11,"New York",66.4
+2,11,"Orlando",79.6
+2,11,"Philadelphia",69.3
+2,11,"Phoenix",74.7
+2,11,"Pittsburgh",71.1
+2,11,"Portland",71.4
+2,11,"Raleigh",75.8
+2,11,"Sacramento",77.5
+2,11,"San Francisco",75
+2,11,"Seattle",69.3
+2,11,"St. Louis",71.5
+2,11,"Tampa-St. Petersburg",78.1
+2,11,"Washington DC",70.3
+2,12,"Atlanta",77.9
+2,12,"Boston",79.4
+2,12,"Charlotte",80.6
+2,12,"Chicago",76
+2,12,"Cleveland",75.6
+2,12,"Dallas",80.5
+2,12,"Denver",76.4
+2,12,"Detroit",68.8
+2,12,"Houston",83.4
+2,12,"Los Angeles",80.6
+2,12,"Miami",80.5
+2,12,"Minneapolis",66.1
+2,12,"New York",68.8
+2,12,"Orlando",80.5
+2,12,"Philadelphia",74.5
+2,12,"Phoenix",79.1
+2,12,"Pittsburgh",74.4
+2,12,"Portland",79.3
+2,12,"Raleigh",81.6
+2,12,"Sacramento",83
+2,12,"San Francisco",80.9
+2,12,"Seattle",77.3
+2,12,"St. Louis",77.5
+2,12,"Tampa-St. Petersburg",82.3
+2,12,"Washington DC",76.8
+2,13,"Atlanta",84.2
+2,13,"Boston",85.9
+2,13,"Charlotte",84.3
+2,13,"Chicago",78.1
+2,13,"Cleveland",79
+2,13,"Dallas",83.9
+2,13,"Denver",77.4
+2,13,"Detroit",73.2
+2,13,"Houston",86.6
+2,13,"Los Angeles",83.9
+2,13,"Miami",84.7
+2,13,"Minneapolis",67
+2,13,"New York",78
+2,13,"Orlando",84.1
+2,13,"Philadelphia",80.9
+2,13,"Phoenix",80.7
+2,13,"Pittsburgh",79.7
+2,13,"Portland",83.4
+2,13,"Raleigh",86.1
+2,13,"Sacramento",85.2
+2,13,"San Francisco",84.6
+2,13,"Seattle",82.1
+2,13,"St. Louis",75.3
+2,13,"Tampa-St. Petersburg",85.1
+2,13,"Washington DC",85.6
+2,14,"Atlanta",89.9
+2,14,"Boston",89.2
+2,14,"Charlotte",87.7
+2,14,"Chicago",82.3
+2,14,"Cleveland",82.7
+2,14,"Dallas",85.8
+2,14,"Denver",79.9
+2,14,"Detroit",78.9
+2,14,"Houston",88.8
+2,14,"Los Angeles",92.5
+2,14,"Miami",86.9
+2,14,"Minneapolis",72.8
+2,14,"New York",85.1
+2,14,"Orlando",87.1
+2,14,"Philadelphia",86.1
+2,14,"Phoenix",83.2
+2,14,"Pittsburgh",84.5
+2,14,"Portland",91
+2,14,"Raleigh",87.4
+2,14,"Sacramento",92.1
+2,14,"San Francisco",92.7
+2,14,"Seattle",91.5
+2,14,"St. Louis",78.3
+2,14,"Tampa-St. Petersburg",87.3
+2,14,"Washington DC",91.6
+2,15,"Atlanta",100
+2,15,"Boston",100
+2,15,"Charlotte",100
+2,15,"Chicago",97.1
+2,15,"Cleveland",100
+2,15,"Dallas",98.2
+2,15,"Denver",100
+2,15,"Detroit",100
+2,15,"Houston",100
+2,15,"Los Angeles",96.8
+2,15,"Miami",97.5
+2,15,"Minneapolis",92.2
+2,15,"New York",100
+2,15,"Orlando",100
+2,15,"Philadelphia",100
+2,15,"Phoenix",100
+2,15,"Pittsburgh",100
+2,15,"Portland",97
+2,15,"Raleigh",100
+2,15,"Sacramento",100
+2,15,"San Francisco",96.2
+2,15,"Seattle",98.7
+2,15,"St. Louis",98.5
+2,15,"Tampa-St. Petersburg",100
+2,15,"Washington DC",100
+2,16,"Atlanta",94.7
+2,16,"Boston",91.5
+2,16,"Charlotte",95.2
+2,16,"Chicago",100
+2,16,"Cleveland",96.6
+2,16,"Dallas",100
+2,16,"Denver",91.4
+2,16,"Detroit",98
+2,16,"Houston",99.7
+2,16,"Los Angeles",100
+2,16,"Miami",96.9
+2,16,"Minneapolis",100
+2,16,"New York",94.4
+2,16,"Orlando",98.2
+2,16,"Philadelphia",95.5
+2,16,"Phoenix",91
+2,16,"Pittsburgh",96.9
+2,16,"Portland",100
+2,16,"Raleigh",99.9
+2,16,"Sacramento",99.1
+2,16,"San Francisco",100
+2,16,"Seattle",100
+2,16,"St. Louis",100
+2,16,"Tampa-St. Petersburg",95.7
+2,16,"Washington DC",92.3
+2,17,"Atlanta",88.6
+2,17,"Boston",79.3
+2,17,"Charlotte",92.1
+2,17,"Chicago",84.1
+2,17,"Cleveland",86.9
+2,17,"Dallas",84.4
+2,17,"Denver",84.1
+2,17,"Detroit",90.1
+2,17,"Houston",82.4
+2,17,"Los Angeles",89
+2,17,"Miami",96.2
+2,17,"Minneapolis",82.8
+2,17,"New York",91
+2,17,"Orlando",97.8
+2,17,"Philadelphia",88.2
+2,17,"Phoenix",85.9
+2,17,"Pittsburgh",88.5
+2,17,"Portland",82.1
+2,17,"Raleigh",94.1
+2,17,"Sacramento",82.9
+2,17,"San Francisco",85.4
+2,17,"Seattle",84.8
+2,17,"St. Louis",81.5
+2,17,"Tampa-St. Petersburg",94.7
+2,17,"Washington DC",84.6
+2,18,"Atlanta",68.9
+2,18,"Boston",55.5
+2,18,"Charlotte",69.7
+2,18,"Chicago",69.4
+2,18,"Cleveland",64.9
+2,18,"Dallas",74.2
+2,18,"Denver",61.7
+2,18,"Detroit",65.7
+2,18,"Houston",72.7
+2,18,"Los Angeles",77.2
+2,18,"Miami",76.6
+2,18,"Minneapolis",64.1
+2,18,"New York",70.9
+2,18,"Orlando",78.5
+2,18,"Philadelphia",66.4
+2,18,"Phoenix",68.3
+2,18,"Pittsburgh",61.3
+2,18,"Portland",66
+2,18,"Raleigh",68.9
+2,18,"Sacramento",65.6
+2,18,"San Francisco",71.7
+2,18,"Seattle",66.5
+2,18,"St. Louis",65.7
+2,18,"Tampa-St. Petersburg",75.2
+2,18,"Washington DC",63.1
+2,19,"Atlanta",51.5
+2,19,"Boston",40.4
+2,19,"Charlotte",49.6
+2,19,"Chicago",47.2
+2,19,"Cleveland",49.1
+2,19,"Dallas",50.2
+2,19,"Denver",41.6
+2,19,"Detroit",45.2
+2,19,"Houston",48.7
+2,19,"Los Angeles",54.5
+2,19,"Miami",57.2
+2,19,"Minneapolis",38.7
+2,19,"New York",57.1
+2,19,"Orlando",61.8
+2,19,"Philadelphia",50.1
+2,19,"Phoenix",47.8
+2,19,"Pittsburgh",42.5
+2,19,"Portland",42.6
+2,19,"Raleigh",49.2
+2,19,"Sacramento",42.6
+2,19,"San Francisco",50.5
+2,19,"Seattle",43.8
+2,19,"St. Louis",42.5
+2,19,"Tampa-St. Petersburg",51.8
+2,19,"Washington DC",47.9
+2,20,"Atlanta",38.1
+2,20,"Boston",29.9
+2,20,"Charlotte",35.2
+2,20,"Chicago",37.6
+2,20,"Cleveland",34.4
+2,20,"Dallas",37.4
+2,20,"Denver",29.5
+2,20,"Detroit",33.7
+2,20,"Houston",35.9
+2,20,"Los Angeles",42.1
+2,20,"Miami",42
+2,20,"Minneapolis",29.9
+2,20,"New York",44
+2,20,"Orlando",48.6
+2,20,"Philadelphia",40
+2,20,"Phoenix",35.7
+2,20,"Pittsburgh",31.8
+2,20,"Portland",31.1
+2,20,"Raleigh",34.7
+2,20,"Sacramento",30.4
+2,20,"San Francisco",36.7
+2,20,"Seattle",31.2
+2,20,"St. Louis",33.7
+2,20,"Tampa-St. Petersburg",36.6
+2,20,"Washington DC",36
+2,21,"Atlanta",30.1
+2,21,"Boston",24.4
+2,21,"Charlotte",27.3
+2,21,"Chicago",28.8
+2,21,"Cleveland",28.9
+2,21,"Dallas",28.5
+2,21,"Denver",22.4
+2,21,"Detroit",26.7
+2,21,"Houston",28.3
+2,21,"Los Angeles",33
+2,21,"Miami",34.4
+2,21,"Minneapolis",22.6
+2,21,"New York",37.2
+2,21,"Orlando",42.3
+2,21,"Philadelphia",33.7
+2,21,"Phoenix",27
+2,21,"Pittsburgh",26.5
+2,21,"Portland",22.8
+2,21,"Raleigh",26.3
+2,21,"Sacramento",22.9
+2,21,"San Francisco",27
+2,21,"Seattle",22.6
+2,21,"St. Louis",26.4
+2,21,"Tampa-St. Petersburg",28.6
+2,21,"Washington DC",29.8
+2,22,"Atlanta",22.3
+2,22,"Boston",18.2
+2,22,"Charlotte",19
+2,22,"Chicago",21.2
+2,22,"Cleveland",21.1
+2,22,"Dallas",21.1
+2,22,"Denver",15.5
+2,22,"Detroit",20.8
+2,22,"Houston",20
+2,22,"Los Angeles",26.7
+2,22,"Miami",26.9
+2,22,"Minneapolis",16.7
+2,22,"New York",29.8
+2,22,"Orlando",31.3
+2,22,"Philadelphia",26.5
+2,22,"Phoenix",19.4
+2,22,"Pittsburgh",20.7
+2,22,"Portland",16.1
+2,22,"Raleigh",19.3
+2,22,"Sacramento",18.1
+2,22,"San Francisco",22.4
+2,22,"Seattle",16.3
+2,22,"St. Louis",20.4
+2,22,"Tampa-St. Petersburg",21.8
+2,22,"Washington DC",22.2
+2,23,"Atlanta",14.7
+2,23,"Boston",12
+2,23,"Charlotte",8.7
+2,23,"Chicago",13.9
+2,23,"Cleveland",17.5
+2,23,"Dallas",12.2
+2,23,"Denver",10.7
+2,23,"Detroit",13.9
+2,23,"Houston",11.8
+2,23,"Los Angeles",17.7
+2,23,"Miami",18.2
+2,23,"Minneapolis",9.5
+2,23,"New York",21.3
+2,23,"Orlando",20
+2,23,"Philadelphia",18
+2,23,"Phoenix",13
+2,23,"Pittsburgh",12.8
+2,23,"Portland",9.3
+2,23,"Raleigh",11.3
+2,23,"Sacramento",11.3
+2,23,"San Francisco",14.3
+2,23,"Seattle",10
+2,23,"St. Louis",13.7
+2,23,"Tampa-St. Petersburg",14.5
+2,23,"Washington DC",14.1
+3,0,"Atlanta",13
+3,0,"Boston",9.5
+3,0,"Charlotte",11.3
+3,0,"Chicago",12.8
+3,0,"Cleveland",17.2
+3,0,"Dallas",11.2
+3,0,"Denver",9.7
+3,0,"Detroit",12.9
+3,0,"Houston",10
+3,0,"Los Angeles",15.9
+3,0,"Miami",14.7
+3,0,"Minneapolis",9.4
+3,0,"New York",14.2
+3,0,"Orlando",15.4
+3,0,"Philadelphia",13.3
+3,0,"Phoenix",11.7
+3,0,"Pittsburgh",15
+3,0,"Portland",7.6
+3,0,"Raleigh",11
+3,0,"Sacramento",8.4
+3,0,"San Francisco",10.8
+3,0,"Seattle",7.9
+3,0,"St. Louis",12.9
+3,0,"Tampa-St. Petersburg",10.9
+3,0,"Washington DC",12.5
+3,1,"Atlanta",6.1
+3,1,"Boston",6
+3,1,"Charlotte",6.1
+3,1,"Chicago",6.8
+3,1,"Cleveland",11.8
+3,1,"Dallas",4.6
+3,1,"Denver",3.1
+3,1,"Detroit",8.1
+3,1,"Houston",4.6
+3,1,"Los Angeles",6.9
+3,1,"Miami",6.3
+3,1,"Minneapolis",5
+3,1,"New York",6.4
+3,1,"Orlando",6.1
+3,1,"Philadelphia",7.5
+3,1,"Phoenix",5.6
+3,1,"Pittsburgh",7.4
+3,1,"Portland",3.2
+3,1,"Raleigh",4.8
+3,1,"Sacramento",4.3
+3,1,"San Francisco",4.6
+3,1,"Seattle",3.2
+3,1,"St. Louis",7.4
+3,1,"Tampa-St. Petersburg",4.7
+3,1,"Washington DC",5.6
+3,2,"Atlanta",1.9
+3,2,"Boston",2
+3,2,"Charlotte",2.1
+3,2,"Chicago",2.6
+3,2,"Cleveland",6.1
+3,2,"Dallas",2.2
+3,2,"Denver",0.8
+3,2,"Detroit",4.9
+3,2,"Houston",1.9
+3,2,"Los Angeles",3.5
+3,2,"Miami",1.5
+3,2,"Minneapolis",2.5
+3,2,"New York",1.9
+3,2,"Orlando",1.9
+3,2,"Philadelphia",4
+3,2,"Phoenix",2.2
+3,2,"Pittsburgh",4
+3,2,"Portland",1.1
+3,2,"Raleigh",0.9
+3,2,"Sacramento",1.2
+3,2,"San Francisco",2.3
+3,2,"Seattle",1.4
+3,2,"St. Louis",2.9
+3,2,"Tampa-St. Petersburg",1.2
+3,2,"Washington DC",2
+3,3,"Atlanta",0
+3,3,"Boston",0
+3,3,"Charlotte",0
+3,3,"Chicago",0
+3,3,"Cleveland",2
+3,3,"Dallas",0
+3,3,"Denver",0
+3,3,"Detroit",1.3
+3,3,"Houston",0
+3,3,"Los Angeles",0
+3,3,"Miami",0
+3,3,"Minneapolis",0
+3,3,"New York",0
+3,3,"Orlando",0
+3,3,"Philadelphia",0.6
+3,3,"Phoenix",0
+3,3,"Pittsburgh",1.3
+3,3,"Portland",0
+3,3,"Raleigh",0
+3,3,"Sacramento",0
+3,3,"San Francisco",0
+3,3,"Seattle",0
+3,3,"St. Louis",0.8
+3,3,"Tampa-St. Petersburg",0
+3,3,"Washington DC",0
+3,4,"Atlanta",0.1
+3,4,"Boston",0.7
+3,4,"Charlotte",0.8
+3,4,"Chicago",1
+3,4,"Cleveland",0
+3,4,"Dallas",1.3
+3,4,"Denver",1.8
+3,4,"Detroit",0
+3,4,"Houston",1.3
+3,4,"Los Angeles",1.6
+3,4,"Miami",1.6
+3,4,"Minneapolis",0.7
+3,4,"New York",1.2
+3,4,"Orlando",0.7
+3,4,"Philadelphia",0
+3,4,"Phoenix",0.8
+3,4,"Pittsburgh",0
+3,4,"Portland",2.1
+3,4,"Raleigh",1.9
+3,4,"Sacramento",0.5
+3,4,"San Francisco",2.7
+3,4,"Seattle",1.4
+3,4,"St. Louis",0
+3,4,"Tampa-St. Petersburg",0.1
+3,4,"Washington DC",1.4
+3,5,"Atlanta",5
+3,5,"Boston",3.1
+3,5,"Charlotte",5.8
+3,5,"Chicago",4.5
+3,5,"Cleveland",3
+3,5,"Dallas",5.2
+3,5,"Denver",4.6
+3,5,"Detroit",3
+3,5,"Houston",5.2
+3,5,"Los Angeles",7.7
+3,5,"Miami",7.7
+3,5,"Minneapolis",2.8
+3,5,"New York",6.6
+3,5,"Orlando",5.6
+3,5,"Philadelphia",3.6
+3,5,"Phoenix",5.5
+3,5,"Pittsburgh",1.1
+3,5,"Portland",4.1
+3,5,"Raleigh",3.7
+3,5,"Sacramento",3.4
+3,5,"San Francisco",5.9
+3,5,"Seattle",4
+3,5,"St. Louis",3
+3,5,"Tampa-St. Petersburg",4.2
+3,5,"Washington DC",7.9
+3,6,"Atlanta",16.5
+3,6,"Boston",11.3
+3,6,"Charlotte",17.9
+3,6,"Chicago",16.8
+3,6,"Cleveland",10.6
+3,6,"Dallas",15.4
+3,6,"Denver",16.3
+3,6,"Detroit",13.8
+3,6,"Houston",18.2
+3,6,"Los Angeles",25.9
+3,6,"Miami",24.4
+3,6,"Minneapolis",10.6
+3,6,"New York",19.8
+3,6,"Orlando",19.2
+3,6,"Philadelphia",15.3
+3,6,"Phoenix",19.7
+3,6,"Pittsburgh",13.3
+3,6,"Portland",14.3
+3,6,"Raleigh",17
+3,6,"Sacramento",13.6
+3,6,"San Francisco",16.1
+3,6,"Seattle",12.5
+3,6,"St. Louis",13.5
+3,6,"Tampa-St. Petersburg",15
+3,6,"Washington DC",22.2
+3,7,"Atlanta",26.4
+3,7,"Boston",21
+3,7,"Charlotte",27.2
+3,7,"Chicago",30
+3,7,"Cleveland",21.8
+3,7,"Dallas",29.4
+3,7,"Denver",33
+3,7,"Detroit",23.7
+3,7,"Houston",33.9
+3,7,"Los Angeles",45
+3,7,"Miami",42.3
+3,7,"Minneapolis",19.8
+3,7,"New York",31.8
+3,7,"Orlando",35.2
+3,7,"Philadelphia",28.9
+3,7,"Phoenix",37.6
+3,7,"Pittsburgh",27.7
+3,7,"Portland",27.7
+3,7,"Raleigh",35.3
+3,7,"Sacramento",29
+3,7,"San Francisco",29.5
+3,7,"Seattle",23.9
+3,7,"St. Louis",27.6
+3,7,"Tampa-St. Petersburg",28.5
+3,7,"Washington DC",36.5
+3,8,"Atlanta",37.9
+3,8,"Boston",29.3
+3,8,"Charlotte",48.8
+3,8,"Chicago",42.7
+3,8,"Cleveland",33.9
+3,8,"Dallas",42.4
+3,8,"Denver",46.3
+3,8,"Detroit",31.5
+3,8,"Houston",48.6
+3,8,"Los Angeles",56.1
+3,8,"Miami",53.1
+3,8,"Minneapolis",34.3
+3,8,"New York",39.3
+3,8,"Orlando",52.2
+3,8,"Philadelphia",41.2
+3,8,"Phoenix",50.9
+3,8,"Pittsburgh",39.4
+3,8,"Portland",40.9
+3,8,"Raleigh",51.2
+3,8,"Sacramento",44
+3,8,"San Francisco",41
+3,8,"Seattle",36.8
+3,8,"St. Louis",41
+3,8,"Tampa-St. Petersburg",42.3
+3,8,"Washington DC",46.9
+3,9,"Atlanta",57.5
+3,9,"Boston",46.8
+3,9,"Charlotte",70.3
+3,9,"Chicago",58.9
+3,9,"Cleveland",51.5
+3,9,"Dallas",63.6
+3,9,"Denver",63.5
+3,9,"Detroit",47.3
+3,9,"Houston",65.9
+3,9,"Los Angeles",70.1
+3,9,"Miami",71.9
+3,9,"Minneapolis",56.7
+3,9,"New York",52.5
+3,9,"Orlando",76.7
+3,9,"Philadelphia",57.9
+3,9,"Phoenix",67.7
+3,9,"Pittsburgh",60.5
+3,9,"Portland",62.5
+3,9,"Raleigh",78.4
+3,9,"Sacramento",62.7
+3,9,"San Francisco",57
+3,9,"Seattle",54.4
+3,9,"St. Louis",59
+3,9,"Tampa-St. Petersburg",64.9
+3,9,"Washington DC",67.8
+3,10,"Atlanta",66.6
+3,10,"Boston",58.3
+3,10,"Charlotte",64.9
+3,10,"Chicago",64.2
+3,10,"Cleveland",56
+3,10,"Dallas",73.8
+3,10,"Denver",66.8
+3,10,"Detroit",52.1
+3,10,"Houston",74.8
+3,10,"Los Angeles",74.3
+3,10,"Miami",67
+3,10,"Minneapolis",71
+3,10,"New York",56.1
+3,10,"Orlando",83.8
+3,10,"Philadelphia",65.4
+3,10,"Phoenix",70.2
+3,10,"Pittsburgh",63.6
+3,10,"Portland",67.7
+3,10,"Raleigh",84.2
+3,10,"Sacramento",70.1
+3,10,"San Francisco",67.3
+3,10,"Seattle",60.2
+3,10,"St. Louis",63.1
+3,10,"Tampa-St. Petersburg",73
+3,10,"Washington DC",73.3
+3,11,"Atlanta",82.1
+3,11,"Boston",81
+3,11,"Charlotte",100
+3,11,"Chicago",78.8
+3,11,"Cleveland",73
+3,11,"Dallas",94.3
+3,11,"Denver",88.9
+3,11,"Detroit",68.3
+3,11,"Houston",91
+3,11,"Los Angeles",86.7
+3,11,"Miami",76.8
+3,11,"Minneapolis",100
+3,11,"New York",68.5
+3,11,"Orlando",97
+3,11,"Philadelphia",77.4
+3,11,"Phoenix",88.2
+3,11,"Pittsburgh",77.5
+3,11,"Portland",86.7
+3,11,"Raleigh",100
+3,11,"Sacramento",86.3
+3,11,"San Francisco",84.7
+3,11,"Seattle",77.6
+3,11,"St. Louis",79.8
+3,11,"Tampa-St. Petersburg",89.8
+3,11,"Washington DC",84.5
+3,12,"Atlanta",89.9
+3,12,"Boston",100
+3,12,"Charlotte",97.2
+3,12,"Chicago",84.8
+3,12,"Cleveland",87.2
+3,12,"Dallas",100
+3,12,"Denver",100
+3,12,"Detroit",79.8
+3,12,"Houston",97.1
+3,12,"Los Angeles",93.9
+3,12,"Miami",81
+3,12,"Minneapolis",98
+3,12,"New York",83.8
+3,12,"Orlando",99.4
+3,12,"Philadelphia",90.2
+3,12,"Phoenix",100
+3,12,"Pittsburgh",84.8
+3,12,"Portland",100
+3,12,"Raleigh",98.8
+3,12,"Sacramento",100
+3,12,"San Francisco",93.9
+3,12,"Seattle",93.2
+3,12,"St. Louis",80.8
+3,12,"Tampa-St. Petersburg",100
+3,12,"Washington DC",93.2
+3,13,"Atlanta",89.8
+3,13,"Boston",94.7
+3,13,"Charlotte",81
+3,13,"Chicago",86.8
+3,13,"Cleveland",91.6
+3,13,"Dallas",89.4
+3,13,"Denver",92.9
+3,13,"Detroit",82.8
+3,13,"Houston",89.2
+3,13,"Los Angeles",96.4
+3,13,"Miami",85.5
+3,13,"Minneapolis",72.9
+3,13,"New York",99.8
+3,13,"Orlando",96.7
+3,13,"Philadelphia",100
+3,13,"Phoenix",96.4
+3,13,"Pittsburgh",82.8
+3,13,"Portland",98.8
+3,13,"Raleigh",89.2
+3,13,"Sacramento",97.1
+3,13,"San Francisco",95.2
+3,13,"Seattle",100
+3,13,"St. Louis",73.1
+3,13,"Tampa-St. Petersburg",99.8
+3,13,"Washington DC",96.4
+3,14,"Atlanta",88
+3,14,"Boston",61.9
+3,14,"Charlotte",69.9
+3,14,"Chicago",85.3
+3,14,"Cleveland",84.7
+3,14,"Dallas",79.9
+3,14,"Denver",76.8
+3,14,"Detroit",83.8
+3,14,"Houston",79.4
+3,14,"Los Angeles",97
+3,14,"Miami",85.9
+3,14,"Minneapolis",60.9
+3,14,"New York",100
+3,14,"Orlando",92
+3,14,"Philadelphia",97.5
+3,14,"Phoenix",83.6
+3,14,"Pittsburgh",77.1
+3,14,"Portland",90.3
+3,14,"Raleigh",79.6
+3,14,"Sacramento",89.7
+3,14,"San Francisco",98.3
+3,14,"Seattle",98.8
+3,14,"St. Louis",71.2
+3,14,"Tampa-St. Petersburg",88.5
+3,14,"Washington DC",92.5
+3,15,"Atlanta",100
+3,15,"Boston",58
+3,15,"Charlotte",86.2
+3,15,"Chicago",100
+3,15,"Cleveland",100
+3,15,"Dallas",86.9
+3,15,"Denver",85.1
+3,15,"Detroit",96
+3,15,"Houston",92.1
+3,15,"Los Angeles",100
+3,15,"Miami",99.3
+3,15,"Minneapolis",80.2
+3,15,"New York",95.4
+3,15,"Orlando",100
+3,15,"Philadelphia",98.7
+3,15,"Phoenix",91
+3,15,"Pittsburgh",100
+3,15,"Portland",84.3
+3,15,"Raleigh",91.8
+3,15,"Sacramento",82.5
+3,15,"San Francisco",100
+3,15,"Seattle",87.4
+3,15,"St. Louis",96.9
+3,15,"Tampa-St. Petersburg",91.4
+3,15,"Washington DC",100
+3,16,"Atlanta",96.8
+3,16,"Boston",65.8
+3,16,"Charlotte",91.3
+3,16,"Chicago",93
+3,16,"Cleveland",98.2
+3,16,"Dallas",86.5
+3,16,"Denver",79.9
+3,16,"Detroit",100
+3,16,"Houston",100
+3,16,"Los Angeles",97.6
+3,16,"Miami",100
+3,16,"Minneapolis",87.4
+3,16,"New York",76.6
+3,16,"Orlando",94.8
+3,16,"Philadelphia",76.5
+3,16,"Phoenix",81.5
+3,16,"Pittsburgh",95.1
+3,16,"Portland",83.6
+3,16,"Raleigh",91.6
+3,16,"Sacramento",72.9
+3,16,"San Francisco",91.7
+3,16,"Seattle",72
+3,16,"St. Louis",100
+3,16,"Tampa-St. Petersburg",89.1
+3,16,"Washington DC",90.9
+3,17,"Atlanta",91.9
+3,17,"Boston",74.6
+3,17,"Charlotte",81
+3,17,"Chicago",79
+3,17,"Cleveland",94.1
+3,17,"Dallas",85.4
+3,17,"Denver",78.8
+3,17,"Detroit",88.9
+3,17,"Houston",96.5
+3,17,"Los Angeles",85.5
+3,17,"Miami",98.1
+3,17,"Minneapolis",80
+3,17,"New York",70.1
+3,17,"Orlando",97.1
+3,17,"Philadelphia",65.7
+3,17,"Phoenix",83.6
+3,17,"Pittsburgh",80.7
+3,17,"Portland",77.5
+3,17,"Raleigh",92.1
+3,17,"Sacramento",67.2
+3,17,"San Francisco",75.4
+3,17,"Seattle",64
+3,17,"St. Louis",82.9
+3,17,"Tampa-St. Petersburg",88.9
+3,17,"Washington DC",78.6
+3,18,"Atlanta",82.6
+3,18,"Boston",70
+3,18,"Charlotte",73.1
+3,18,"Chicago",76.2
+3,18,"Cleveland",81.2
+3,18,"Dallas",77.2
+3,18,"Denver",73.3
+3,18,"Detroit",78.8
+3,18,"Houston",90.8
+3,18,"Los Angeles",73
+3,18,"Miami",88.1
+3,18,"Minneapolis",73.8
+3,18,"New York",63
+3,18,"Orlando",87.1
+3,18,"Philadelphia",61.9
+3,18,"Phoenix",84.2
+3,18,"Pittsburgh",72.1
+3,18,"Portland",78.4
+3,18,"Raleigh",78.7
+3,18,"Sacramento",65.7
+3,18,"San Francisco",66.2
+3,18,"Seattle",66.4
+3,18,"St. Louis",71.2
+3,18,"Tampa-St. Petersburg",85
+3,18,"Washington DC",70
+3,19,"Atlanta",69.6
+3,19,"Boston",59
+3,19,"Charlotte",57.4
+3,19,"Chicago",63.6
+3,19,"Cleveland",66.5
+3,19,"Dallas",74.2
+3,19,"Denver",60.3
+3,19,"Detroit",68.2
+3,19,"Houston",66.5
+3,19,"Los Angeles",57.6
+3,19,"Miami",65.8
+3,19,"Minneapolis",55.4
+3,19,"New York",61.7
+3,19,"Orlando",75.4
+3,19,"Philadelphia",63.8
+3,19,"Phoenix",62.3
+3,19,"Pittsburgh",59.5
+3,19,"Portland",62.2
+3,19,"Raleigh",61.3
+3,19,"Sacramento",53.7
+3,19,"San Francisco",56.1
+3,19,"Seattle",59
+3,19,"St. Louis",57.1
+3,19,"Tampa-St. Petersburg",67.2
+3,19,"Washington DC",59.9
+3,20,"Atlanta",59
+3,20,"Boston",48.4
+3,20,"Charlotte",50
+3,20,"Chicago",61.9
+3,20,"Cleveland",57.8
+3,20,"Dallas",62.4
+3,20,"Denver",48.6
+3,20,"Detroit",61.1
+3,20,"Houston",53
+3,20,"Los Angeles",56.2
+3,20,"Miami",54.8
+3,20,"Minneapolis",45.7
+3,20,"New York",64.4
+3,20,"Orlando",65.7
+3,20,"Philadelphia",66.7
+3,20,"Phoenix",50.2
+3,20,"Pittsburgh",53.1
+3,20,"Portland",52.8
+3,20,"Raleigh",55
+3,20,"Sacramento",48.8
+3,20,"San Francisco",58.4
+3,20,"Seattle",56
+3,20,"St. Louis",48.8
+3,20,"Tampa-St. Petersburg",56.3
+3,20,"Washington DC",65.2
+3,21,"Atlanta",47.1
+3,21,"Boston",36
+3,21,"Charlotte",38.8
+3,21,"Chicago",53
+3,21,"Cleveland",45.4
+3,21,"Dallas",44.7
+3,21,"Denver",34.6
+3,21,"Detroit",49.2
+3,21,"Houston",43.2
+3,21,"Los Angeles",53.4
+3,21,"Miami",50.3
+3,21,"Minneapolis",34.7
+3,21,"New York",64.2
+3,21,"Orlando",56.5
+3,21,"Philadelphia",57.2
+3,21,"Phoenix",36.6
+3,21,"Pittsburgh",42.8
+3,21,"Portland",39.9
+3,21,"Raleigh",42.5
+3,21,"Sacramento",37.2
+3,21,"San Francisco",58.1
+3,21,"Seattle",44
+3,21,"St. Louis",35.3
+3,21,"Tampa-St. Petersburg",42.9
+3,21,"Washington DC",60
+3,22,"Atlanta",35.2
+3,22,"Boston",23.9
+3,22,"Charlotte",24.6
+3,22,"Chicago",38.2
+3,22,"Cleveland",30.6
+3,22,"Dallas",31.6
+3,22,"Denver",20.5
+3,22,"Detroit",32.5
+3,22,"Houston",32.9
+3,22,"Los Angeles",44.6
+3,22,"Miami",43.8
+3,22,"Minneapolis",22
+3,22,"New York",51.4
+3,22,"Orlando",43.4
+3,22,"Philadelphia",36.2
+3,22,"Phoenix",24.2
+3,22,"Pittsburgh",28
+3,22,"Portland",25.6
+3,22,"Raleigh",27.4
+3,22,"Sacramento",25.8
+3,22,"San Francisco",48.8
+3,22,"Seattle",27.3
+3,22,"St. Louis",22.4
+3,22,"Tampa-St. Petersburg",29.3
+3,22,"Washington DC",42.1
+3,23,"Atlanta",22.4
+3,23,"Boston",15.1
+3,23,"Charlotte",14.4
+3,23,"Chicago",22.8
+3,23,"Cleveland",16.2
+3,23,"Dallas",19.6
+3,23,"Denver",11.3
+3,23,"Detroit",18.5
+3,23,"Houston",20.8
+3,23,"Los Angeles",27.3
+3,23,"Miami",31
+3,23,"Minneapolis",11.9
+3,23,"New York",35.1
+3,23,"Orlando",27.1
+3,23,"Philadelphia",18.4
+3,23,"Phoenix",13.6
+3,23,"Pittsburgh",14.1
+3,23,"Portland",13.8
+3,23,"Raleigh",15
+3,23,"Sacramento",14.1
+3,23,"San Francisco",27.1
+3,23,"Seattle",13.9
+3,23,"St. Louis",10.6
+3,23,"Tampa-St. Petersburg",16.8
+3,23,"Washington DC",24
+4,0,"Atlanta",10.7
+4,0,"Boston",6.4
+4,0,"Charlotte",7
+4,0,"Chicago",10.8
+4,0,"Cleveland",6.3
+4,0,"Dallas",8.6
+4,0,"Denver",5.2
+4,0,"Detroit",9.4
+4,0,"Houston",9.5
+4,0,"Los Angeles",12.9
+4,0,"Miami",13.9
+4,0,"Minneapolis",5.7
+4,0,"New York",18
+4,0,"Orlando",10.6
+4,0,"Philadelphia",8.4
+4,0,"Phoenix",6.3
+4,0,"Pittsburgh",4.8
+4,0,"Portland",5.6
+4,0,"Raleigh",6.1
+4,0,"Sacramento",7.6
+4,0,"San Francisco",12.3
+4,0,"Seattle",6.3
+4,0,"St. Louis",5.1
+4,0,"Tampa-St. Petersburg",6.6
+4,0,"Washington DC",10.6
+4,1,"Atlanta",4.4
+4,1,"Boston",1.9
+4,1,"Charlotte",2.5
+4,1,"Chicago",4.3
+4,1,"Cleveland",2.3
+4,1,"Dallas",3.5
+4,1,"Denver",1.6
+4,1,"Detroit",3.8
+4,1,"Houston",3.7
+4,1,"Los Angeles",4.6
+4,1,"Miami",6
+4,1,"Minneapolis",2
+4,1,"New York",7.6
+4,1,"Orlando",3.5
+4,1,"Philadelphia",3.6
+4,1,"Phoenix",2.1
+4,1,"Pittsburgh",1.4
+4,1,"Portland",2
+4,1,"Raleigh",2.2
+4,1,"Sacramento",1.9
+4,1,"San Francisco",4
+4,1,"Seattle",1.9
+4,1,"St. Louis",1.4
+4,1,"Tampa-St. Petersburg",2.2
+4,1,"Washington DC",4.2
+4,2,"Atlanta",0.9
+4,2,"Boston",0
+4,2,"Charlotte",0.5
+4,2,"Chicago",0.8
+4,2,"Cleveland",0.3
+4,2,"Dallas",0.8
+4,2,"Denver",0
+4,2,"Detroit",0.6
+4,2,"Houston",0.9
+4,2,"Los Angeles",0.6
+4,2,"Miami",1.3
+4,2,"Minneapolis",0.2
+4,2,"New York",1.9
+4,2,"Orlando",0.2
+4,2,"Philadelphia",0.4
+4,2,"Phoenix",0
+4,2,"Pittsburgh",0
+4,2,"Portland",0
+4,2,"Raleigh",0.1
+4,2,"Sacramento",0
+4,2,"San Francisco",0.5
+4,2,"Seattle",0
+4,2,"St. Louis",0
+4,2,"Tampa-St. Petersburg",0
+4,2,"Washington DC",0.6
+4,3,"Atlanta",0
+4,3,"Boston",0
+4,3,"Charlotte",0
+4,3,"Chicago",0
+4,3,"Cleveland",0
+4,3,"Dallas",0
+4,3,"Denver",0.1
+4,3,"Detroit",0
+4,3,"Houston",0
+4,3,"Los Angeles",0
+4,3,"Miami",0
+4,3,"Minneapolis",0
+4,3,"New York",0
+4,3,"Orlando",0
+4,3,"Philadelphia",0
+4,3,"Phoenix",0.1
+4,3,"Pittsburgh",0.6
+4,3,"Portland",1.1
+4,3,"Raleigh",0
+4,3,"Sacramento",0.1
+4,3,"San Francisco",0
+4,3,"Seattle",0.9
+4,3,"St. Louis",0.5
+4,3,"Tampa-St. Petersburg",0.4
+4,3,"Washington DC",0
+4,4,"Atlanta",2.5
+4,4,"Boston",3.1
+4,4,"Charlotte",2.8
+4,4,"Chicago",3.7
+4,4,"Cleveland",2.1
+4,4,"Dallas",2.5
+4,4,"Denver",3.5
+4,4,"Detroit",1.7
+4,4,"Houston",2.3
+4,4,"Los Angeles",3.5
+4,4,"Miami",2.2
+4,4,"Minneapolis",3.2
+4,4,"New York",2.7
+4,4,"Orlando",2.8
+4,4,"Philadelphia",2.4
+4,4,"Phoenix",4
+4,4,"Pittsburgh",3.1
+4,4,"Portland",4.9
+4,4,"Raleigh",2.6
+4,4,"Sacramento",3.1
+4,4,"San Francisco",3.7
+4,4,"Seattle",4.4
+4,4,"St. Louis",3.7
+4,4,"Tampa-St. Petersburg",3
+4,4,"Washington DC",3.3
+4,5,"Atlanta",9.2
+4,5,"Boston",12.2
+4,5,"Charlotte",8.4
+4,5,"Chicago",13.2
+4,5,"Cleveland",7.9
+4,5,"Dallas",8.9
+4,5,"Denver",10.4
+4,5,"Detroit",8.3
+4,5,"Houston",7.6
+4,5,"Los Angeles",11.9
+4,5,"Miami",10.1
+4,5,"Minneapolis",10.5
+4,5,"New York",11.3
+4,5,"Orlando",9.4
+4,5,"Philadelphia",10
+4,5,"Phoenix",12.2
+4,5,"Pittsburgh",10.2
+4,5,"Portland",11.9
+4,5,"Raleigh",7.8
+4,5,"Sacramento",7.3
+4,5,"San Francisco",9.3
+4,5,"Seattle",12.2
+4,5,"St. Louis",11.3
+4,5,"Tampa-St. Petersburg",9.3
+4,5,"Washington DC",12.1
+4,6,"Atlanta",25.7
+4,6,"Boston",33.3
+4,6,"Charlotte",25.7
+4,6,"Chicago",33.2
+4,6,"Cleveland",27.5
+4,6,"Dallas",24.2
+4,6,"Denver",30.9
+4,6,"Detroit",27.9
+4,6,"Houston",23.7
+4,6,"Los Angeles",34.5
+4,6,"Miami",34.7
+4,6,"Minneapolis",28.8
+4,6,"New York",33.6
+4,6,"Orlando",28.5
+4,6,"Philadelphia",30.7
+4,6,"Phoenix",32.7
+4,6,"Pittsburgh",31.7
+4,6,"Portland",29.7
+4,6,"Raleigh",24.8
+4,6,"Sacramento",19.5
+4,6,"San Francisco",23.7
+4,6,"Seattle",29.8
+4,6,"St. Louis",32
+4,6,"Tampa-St. Petersburg",28.9
+4,6,"Washington DC",30.2
+4,7,"Atlanta",42.5
+4,7,"Boston",51.8
+4,7,"Charlotte",51.4
+4,7,"Chicago",52
+4,7,"Cleveland",50.1
+4,7,"Dallas",41.1
+4,7,"Denver",55.7
+4,7,"Detroit",49.1
+4,7,"Houston",42.1
+4,7,"Los Angeles",57.2
+4,7,"Miami",61.9
+4,7,"Minneapolis",50
+4,7,"New York",55.2
+4,7,"Orlando",51.4
+4,7,"Philadelphia",51.9
+4,7,"Phoenix",58.7
+4,7,"Pittsburgh",53.7
+4,7,"Portland",51.4
+4,7,"Raleigh",44.4
+4,7,"Sacramento",37.8
+4,7,"San Francisco",42.1
+4,7,"Seattle",48.6
+4,7,"St. Louis",53.8
+4,7,"Tampa-St. Petersburg",51.7
+4,7,"Washington DC",47.6
+4,8,"Atlanta",51.7
+4,8,"Boston",57.6
+4,8,"Charlotte",61.5
+4,8,"Chicago",64.7
+4,8,"Cleveland",59.4
+4,8,"Dallas",53.8
+4,8,"Denver",67
+4,8,"Detroit",60.7
+4,8,"Houston",55.3
+4,8,"Los Angeles",65.5
+4,8,"Miami",72.9
+4,8,"Minneapolis",63.1
+4,8,"New York",63.9
+4,8,"Orlando",64.8
+4,8,"Philadelphia",59.6
+4,8,"Phoenix",68.9
+4,8,"Pittsburgh",61.5
+4,8,"Portland",62.1
+4,8,"Raleigh",56.9
+4,8,"Sacramento",49.3
+4,8,"San Francisco",51.5
+4,8,"Seattle",58.5
+4,8,"St. Louis",68.5
+4,8,"Tampa-St. Petersburg",63
+4,8,"Washington DC",55.5
+4,9,"Atlanta",66.4
+4,9,"Boston",72.2
+4,9,"Charlotte",73
+4,9,"Chicago",75.8
+4,9,"Cleveland",73.7
+4,9,"Dallas",67.5
+4,9,"Denver",78.5
+4,9,"Detroit",75.3
+4,9,"Houston",70.3
+4,9,"Los Angeles",77.6
+4,9,"Miami",87.4
+4,9,"Minneapolis",80
+4,9,"New York",73.7
+4,9,"Orlando",82.3
+4,9,"Philadelphia",74.1
+4,9,"Phoenix",82.4
+4,9,"Pittsburgh",76.2
+4,9,"Portland",77.1
+4,9,"Raleigh",72.9
+4,9,"Sacramento",64.8
+4,9,"San Francisco",66.5
+4,9,"Seattle",71.2
+4,9,"St. Louis",85.1
+4,9,"Tampa-St. Petersburg",81.2
+4,9,"Washington DC",70.1
+4,10,"Atlanta",68.9
+4,10,"Boston",70.4
+4,10,"Charlotte",78.1
+4,10,"Chicago",72.3
+4,10,"Cleveland",69.2
+4,10,"Dallas",68.5
+4,10,"Denver",74.5
+4,10,"Detroit",69.5
+4,10,"Houston",68
+4,10,"Los Angeles",79.1
+4,10,"Miami",82.5
+4,10,"Minneapolis",73.5
+4,10,"New York",69.5
+4,10,"Orlando",84.2
+4,10,"Philadelphia",73.3
+4,10,"Phoenix",76.4
+4,10,"Pittsburgh",70.6
+4,10,"Portland",77.4
+4,10,"Raleigh",73.3
+4,10,"Sacramento",70.4
+4,10,"San Francisco",73.1
+4,10,"Seattle",73
+4,10,"St. Louis",78.8
+4,10,"Tampa-St. Petersburg",81
+4,10,"Washington DC",70.5
+4,11,"Atlanta",77.3
+4,11,"Boston",78.9
+4,11,"Charlotte",85.4
+4,11,"Chicago",78.6
+4,11,"Cleveland",76.7
+4,11,"Dallas",77.7
+4,11,"Denver",85.2
+4,11,"Detroit",76
+4,11,"Houston",76.3
+4,11,"Los Angeles",86.8
+4,11,"Miami",86.4
+4,11,"Minneapolis",81.8
+4,11,"New York",77.2
+4,11,"Orlando",88.2
+4,11,"Philadelphia",82
+4,11,"Phoenix",88.3
+4,11,"Pittsburgh",75.2
+4,11,"Portland",90.9
+4,11,"Raleigh",79.2
+4,11,"Sacramento",81.6
+4,11,"San Francisco",84.4
+4,11,"Seattle",84.5
+4,11,"St. Louis",85.9
+4,11,"Tampa-St. Petersburg",87.6
+4,11,"Washington DC",77.7
+4,12,"Atlanta",82.5
+4,12,"Boston",83.6
+4,12,"Charlotte",86.7
+4,12,"Chicago",84.8
+4,12,"Cleveland",82.1
+4,12,"Dallas",87.3
+4,12,"Denver",88.2
+4,12,"Detroit",80.3
+4,12,"Houston",86.2
+4,12,"Los Angeles",88.6
+4,12,"Miami",87.7
+4,12,"Minneapolis",89.6
+4,12,"New York",81.6
+4,12,"Orlando",86.6
+4,12,"Philadelphia",84.9
+4,12,"Phoenix",91.2
+4,12,"Pittsburgh",79.7
+4,12,"Portland",95.4
+4,12,"Raleigh",83.9
+4,12,"Sacramento",88.9
+4,12,"San Francisco",87.6
+4,12,"Seattle",89.9
+4,12,"St. Louis",91.8
+4,12,"Tampa-St. Petersburg",90.5
+4,12,"Washington DC",83.5
+4,13,"Atlanta",87.9
+4,13,"Boston",88.8
+4,13,"Charlotte",90.9
+4,13,"Chicago",86.5
+4,13,"Cleveland",84.6
+4,13,"Dallas",89.1
+4,13,"Denver",87.2
+4,13,"Detroit",84.8
+4,13,"Houston",87.4
+4,13,"Los Angeles",87.2
+4,13,"Miami",91.6
+4,13,"Minneapolis",89.8
+4,13,"New York",88.1
+4,13,"Orlando",91.4
+4,13,"Philadelphia",89.5
+4,13,"Phoenix",87.7
+4,13,"Pittsburgh",84.9
+4,13,"Portland",91.7
+4,13,"Raleigh",89.3
+4,13,"Sacramento",92.4
+4,13,"San Francisco",89.6
+4,13,"Seattle",91.3
+4,13,"St. Louis",91.7
+4,13,"Tampa-St. Petersburg",94.7
+4,13,"Washington DC",89.1
+4,14,"Atlanta",89.5
+4,14,"Boston",89.4
+4,14,"Charlotte",91.6
+4,14,"Chicago",87.2
+4,14,"Cleveland",85.5
+4,14,"Dallas",87.4
+4,14,"Denver",83.7
+4,14,"Detroit",86.4
+4,14,"Houston",85.8
+4,14,"Los Angeles",90.4
+4,14,"Miami",89.9
+4,14,"Minneapolis",88
+4,14,"New York",91.2
+4,14,"Orlando",91.4
+4,14,"Philadelphia",90.4
+4,14,"Phoenix",84.4
+4,14,"Pittsburgh",86
+4,14,"Portland",91.2
+4,14,"Raleigh",91.5
+4,14,"Sacramento",95.6
+4,14,"San Francisco",93.2
+4,14,"Seattle",93.2
+4,14,"St. Louis",87.1
+4,14,"Tampa-St. Petersburg",92.4
+4,14,"Washington DC",90.1
+4,15,"Atlanta",100
+4,15,"Boston",100
+4,15,"Charlotte",100
+4,15,"Chicago",99
+4,15,"Cleveland",100
+4,15,"Dallas",97.3
+4,15,"Denver",100
+4,15,"Detroit",100
+4,15,"Houston",97.9
+4,15,"Los Angeles",96.1
+4,15,"Miami",100
+4,15,"Minneapolis",100
+4,15,"New York",100
+4,15,"Orlando",100
+4,15,"Philadelphia",100
+4,15,"Phoenix",100
+4,15,"Pittsburgh",100
+4,15,"Portland",95.8
+4,15,"Raleigh",100
+4,15,"Sacramento",99.4
+4,15,"San Francisco",97.1
+4,15,"Seattle",99.4
+4,15,"St. Louis",100
+4,15,"Tampa-St. Petersburg",100
+4,15,"Washington DC",100
+4,16,"Atlanta",94.1
+4,16,"Boston",95.5
+4,16,"Charlotte",99.5
+4,16,"Chicago",100
+4,16,"Cleveland",95.1
+4,16,"Dallas",100
+4,16,"Denver",92.8
+4,16,"Detroit",98.5
+4,16,"Houston",100
+4,16,"Los Angeles",100
+4,16,"Miami",95
+4,16,"Minneapolis",97.7
+4,16,"New York",94
+4,16,"Orlando",96.5
+4,16,"Philadelphia",96.7
+4,16,"Phoenix",93.2
+4,16,"Pittsburgh",96.2
+4,16,"Portland",100
+4,16,"Raleigh",94.8
+4,16,"Sacramento",100
+4,16,"San Francisco",100
+4,16,"Seattle",100
+4,16,"St. Louis",98.8
+4,16,"Tampa-St. Petersburg",92.4
+4,16,"Washington DC",95.4
+4,17,"Atlanta",88.9
+4,17,"Boston",87.6
+4,17,"Charlotte",82.1
+4,17,"Chicago",86.7
+4,17,"Cleveland",94.4
+4,17,"Dallas",89.7
+4,17,"Denver",88.9
+4,17,"Detroit",94.8
+4,17,"Houston",86.6
+4,17,"Los Angeles",92
+4,17,"Miami",94.4
+4,17,"Minneapolis",79.3
+4,17,"New York",89.8
+4,17,"Orlando",96.9
+4,17,"Philadelphia",91.8
+4,17,"Phoenix",91.1
+4,17,"Pittsburgh",91.3
+4,17,"Portland",86.4
+4,17,"Raleigh",89.8
+4,17,"Sacramento",87.5
+4,17,"San Francisco",89.5
+4,17,"Seattle",85.4
+4,17,"St. Louis",84
+4,17,"Tampa-St. Petersburg",88.8
+4,17,"Washington DC",91.3
+4,18,"Atlanta",72.4
+4,18,"Boston",67.7
+4,18,"Charlotte",74.6
+4,18,"Chicago",76.9
+4,18,"Cleveland",75.3
+4,18,"Dallas",84.7
+4,18,"Denver",70.6
+4,18,"Detroit",78
+4,18,"Houston",81.6
+4,18,"Los Angeles",82.9
+4,18,"Miami",81.6
+4,18,"Minneapolis",68.2
+4,18,"New York",72.5
+4,18,"Orlando",82
+4,18,"Philadelphia",71.5
+4,18,"Phoenix",77.4
+4,18,"Pittsburgh",70.1
+4,18,"Portland",72.7
+4,18,"Raleigh",73.2
+4,18,"Sacramento",73.5
+4,18,"San Francisco",79.4
+4,18,"Seattle",68.2
+4,18,"St. Louis",72
+4,18,"Tampa-St. Petersburg",76.7
+4,18,"Washington DC",72.9
+4,19,"Atlanta",55.3
+4,19,"Boston",48.8
+4,19,"Charlotte",52.4
+4,19,"Chicago",55
+4,19,"Cleveland",51.6
+4,19,"Dallas",58
+4,19,"Denver",50.4
+4,19,"Detroit",55.7
+4,19,"Houston",57
+4,19,"Los Angeles",61.2
+4,19,"Miami",62.8
+4,19,"Minneapolis",45.2
+4,19,"New York",56.4
+4,19,"Orlando",65.4
+4,19,"Philadelphia",52.9
+4,19,"Phoenix",55.4
+4,19,"Pittsburgh",48
+4,19,"Portland",50.5
+4,19,"Raleigh",52.1
+4,19,"Sacramento",48.1
+4,19,"San Francisco",58.4
+4,19,"Seattle",46.1
+4,19,"St. Louis",47.8
+4,19,"Tampa-St. Petersburg",58.1
+4,19,"Washington DC",55.4
+4,20,"Atlanta",41
+4,20,"Boston",35.6
+4,20,"Charlotte",39.7
+4,20,"Chicago",43.9
+4,20,"Cleveland",39.1
+4,20,"Dallas",44.1
+4,20,"Denver",40.4
+4,20,"Detroit",42.3
+4,20,"Houston",43.1
+4,20,"Los Angeles",48
+4,20,"Miami",47.7
+4,20,"Minneapolis",35.1
+4,20,"New York",44
+4,20,"Orlando",49.9
+4,20,"Philadelphia",40.4
+4,20,"Phoenix",43.3
+4,20,"Pittsburgh",34.4
+4,20,"Portland",37.6
+4,20,"Raleigh",38
+4,20,"Sacramento",35.4
+4,20,"San Francisco",44.9
+4,20,"Seattle",35.5
+4,20,"St. Louis",37.8
+4,20,"Tampa-St. Petersburg",47.6
+4,20,"Washington DC",41.9
+4,21,"Atlanta",33.6
+4,21,"Boston",29.9
+4,21,"Charlotte",31.3
+4,21,"Chicago",35.8
+4,21,"Cleveland",33.2
+4,21,"Dallas",36.9
+4,21,"Denver",30.5
+4,21,"Detroit",34.8
+4,21,"Houston",35.1
+4,21,"Los Angeles",40.5
+4,21,"Miami",39.8
+4,21,"Minneapolis",28.9
+4,21,"New York",38.5
+4,21,"Orlando",43.1
+4,21,"Philadelphia",34.1
+4,21,"Phoenix",35.3
+4,21,"Pittsburgh",29.9
+4,21,"Portland",28.9
+4,21,"Raleigh",29.8
+4,21,"Sacramento",27.5
+4,21,"San Francisco",36.3
+4,21,"Seattle",32.3
+4,21,"St. Louis",30.4
+4,21,"Tampa-St. Petersburg",36.6
+4,21,"Washington DC",37
+4,22,"Atlanta",28.1
+4,22,"Boston",23
+4,22,"Charlotte",25.9
+4,22,"Chicago",28.7
+4,22,"Cleveland",28.9
+4,22,"Dallas",29.6
+4,22,"Denver",22.1
+4,22,"Detroit",28.9
+4,22,"Houston",27.8
+4,22,"Los Angeles",35.9
+4,22,"Miami",33.2
+4,22,"Minneapolis",22.1
+4,22,"New York",32.1
+4,22,"Orlando",37.3
+4,22,"Philadelphia",29.1
+4,22,"Phoenix",25.5
+4,22,"Pittsburgh",24.8
+4,22,"Portland",21.3
+4,22,"Raleigh",25.5
+4,22,"Sacramento",22.5
+4,22,"San Francisco",32.6
+4,22,"Seattle",25.3
+4,22,"St. Louis",23.2
+4,22,"Tampa-St. Petersburg",29.7
+4,22,"Washington DC",30
+4,23,"Atlanta",18.5
+4,23,"Boston",16
+4,23,"Charlotte",15.4
+4,23,"Chicago",18.4
+4,23,"Cleveland",17.9
+4,23,"Dallas",17.9
+4,23,"Denver",14.6
+4,23,"Detroit",18.3
+4,23,"Houston",17.5
+4,23,"Los Angeles",23
+4,23,"Miami",25.7
+4,23,"Minneapolis",13.1
+4,23,"New York",22.8
+4,23,"Orlando",25.2
+4,23,"Philadelphia",19
+4,23,"Phoenix",16.9
+4,23,"Pittsburgh",18.7
+4,23,"Portland",12.6
+4,23,"Raleigh",15.7
+4,23,"Sacramento",15.9
+4,23,"San Francisco",20.7
+4,23,"Seattle",14.8
+4,23,"St. Louis",14
+4,23,"Tampa-St. Petersburg",18.4
+4,23,"Washington DC",19.1
+5,0,"Atlanta",9.1
+5,0,"Boston",9.4
+5,0,"Charlotte",7.5
+5,0,"Chicago",9.5
+5,0,"Cleveland",10.9
+5,0,"Dallas",8.7
+5,0,"Denver",7.1
+5,0,"Detroit",10
+5,0,"Houston",9
+5,0,"Los Angeles",9.8
+5,0,"Miami",13.6
+5,0,"Minneapolis",7.9
+5,0,"New York",12.3
+5,0,"Orlando",14.1
+5,0,"Philadelphia",8.4
+5,0,"Phoenix",7.9
+5,0,"Pittsburgh",7.2
+5,0,"Portland",6.1
+5,0,"Raleigh",7.6
+5,0,"Sacramento",6.2
+5,0,"San Francisco",8.4
+5,0,"Seattle",6
+5,0,"St. Louis",6.6
+5,0,"Tampa-St. Petersburg",7.4
+5,0,"Washington DC",8.6
+5,1,"Atlanta",3.9
+5,1,"Boston",4.6
+5,1,"Charlotte",4
+5,1,"Chicago",4.5
+5,1,"Cleveland",5.3
+5,1,"Dallas",4.1
+5,1,"Denver",3.6
+5,1,"Detroit",4.7
+5,1,"Houston",3.8
+5,1,"Los Angeles",4.3
+5,1,"Miami",5.3
+5,1,"Minneapolis",4.4
+5,1,"New York",5.7
+5,1,"Orlando",4
+5,1,"Philadelphia",4.1
+5,1,"Phoenix",2.9
+5,1,"Pittsburgh",4.2
+5,1,"Portland",2.1
+5,1,"Raleigh",2.7
+5,1,"Sacramento",2.1
+5,1,"San Francisco",3.6
+5,1,"Seattle",3.2
+5,1,"St. Louis",2.9
+5,1,"Tampa-St. Petersburg",2.8
+5,1,"Washington DC",3.2
+5,2,"Atlanta",0.9
+5,2,"Boston",2
+5,2,"Charlotte",2.5
+5,2,"Chicago",1.5
+5,2,"Cleveland",2.4
+5,2,"Dallas",2.2
+5,2,"Denver",1.4
+5,2,"Detroit",2.6
+5,2,"Houston",2.3
+5,2,"Los Angeles",2.3
+5,2,"Miami",1.3
+5,2,"Minneapolis",2
+5,2,"New York",1.5
+5,2,"Orlando",0.7
+5,2,"Philadelphia",2
+5,2,"Phoenix",1.2
+5,2,"Pittsburgh",1.9
+5,2,"Portland",0.9
+5,2,"Raleigh",1
+5,2,"Sacramento",0.8
+5,2,"San Francisco",1.6
+5,2,"Seattle",1.5
+5,2,"St. Louis",0.7
+5,2,"Tampa-St. Petersburg",0.2
+5,2,"Washington DC",1
+5,3,"Atlanta",0
+5,3,"Boston",0
+5,3,"Charlotte",0.8
+5,3,"Chicago",0
+5,3,"Cleveland",0
+5,3,"Dallas",0
+5,3,"Denver",0
+5,3,"Detroit",0
+5,3,"Houston",0
+5,3,"Los Angeles",0
+5,3,"Miami",0
+5,3,"Minneapolis",0
+5,3,"New York",0
+5,3,"Orlando",0
+5,3,"Philadelphia",0
+5,3,"Phoenix",0
+5,3,"Pittsburgh",0
+5,3,"Portland",0
+5,3,"Raleigh",0
+5,3,"Sacramento",0
+5,3,"San Francisco",0
+5,3,"Seattle",0
+5,3,"St. Louis",0
+5,3,"Tampa-St. Petersburg",0
+5,3,"Washington DC",0
+5,4,"Atlanta",0.5
+5,4,"Boston",1.3
+5,4,"Charlotte",0
+5,4,"Chicago",2
+5,4,"Cleveland",0.5
+5,4,"Dallas",1.1
+5,4,"Denver",2.6
+5,4,"Detroit",0.4
+5,4,"Houston",0.9
+5,4,"Los Angeles",1.2
+5,4,"Miami",1.6
+5,4,"Minneapolis",1
+5,4,"New York",1.5
+5,4,"Orlando",1.8
+5,4,"Philadelphia",0.6
+5,4,"Phoenix",1.6
+5,4,"Pittsburgh",0.8
+5,4,"Portland",0.9
+5,4,"Raleigh",1.7
+5,4,"Sacramento",1.2
+5,4,"San Francisco",2.4
+5,4,"Seattle",1.5
+5,4,"St. Louis",1.1
+5,4,"Tampa-St. Petersburg",1.1
+5,4,"Washington DC",0.6
+5,5,"Atlanta",5
+5,5,"Boston",6.7
+5,5,"Charlotte",4.3
+5,5,"Chicago",6.5
+5,5,"Cleveland",4.5
+5,5,"Dallas",5
+5,5,"Denver",7.5
+5,5,"Detroit",3.8
+5,5,"Houston",5.1
+5,5,"Los Angeles",6.4
+5,5,"Miami",6.6
+5,5,"Minneapolis",3.3
+5,5,"New York",6.7
+5,5,"Orlando",6.9
+5,5,"Philadelphia",4.4
+5,5,"Phoenix",7
+5,5,"Pittsburgh",4
+5,5,"Portland",3.4
+5,5,"Raleigh",4.4
+5,5,"Sacramento",3.7
+5,5,"San Francisco",5.9
+5,5,"Seattle",4.7
+5,5,"St. Louis",4.3
+5,5,"Tampa-St. Petersburg",5
+5,5,"Washington DC",5.2
+5,6,"Atlanta",16.6
+5,6,"Boston",22.1
+5,6,"Charlotte",14
+5,6,"Chicago",18.7
+5,6,"Cleveland",14.9
+5,6,"Dallas",16.3
+5,6,"Denver",21.3
+5,6,"Detroit",15.1
+5,6,"Houston",17.2
+5,6,"Los Angeles",23.4
+5,6,"Miami",25
+5,6,"Minneapolis",12.4
+5,6,"New York",22.7
+5,6,"Orlando",21.8
+5,6,"Philadelphia",17.4
+5,6,"Phoenix",23.9
+5,6,"Pittsburgh",15.1
+5,6,"Portland",14.5
+5,6,"Raleigh",13.7
+5,6,"Sacramento",14.5
+5,6,"San Francisco",16.5
+5,6,"Seattle",14.2
+5,6,"St. Louis",15.2
+5,6,"Tampa-St. Petersburg",19.1
+5,6,"Washington DC",17.5
+5,7,"Atlanta",31.4
+5,7,"Boston",38.2
+5,7,"Charlotte",27.9
+5,7,"Chicago",35.9
+5,7,"Cleveland",30.9
+5,7,"Dallas",31.5
+5,7,"Denver",42.9
+5,7,"Detroit",28.5
+5,7,"Houston",34.5
+5,7,"Los Angeles",45.6
+5,7,"Miami",48.2
+5,7,"Minneapolis",27.8
+5,7,"New York",41.6
+5,7,"Orlando",39.4
+5,7,"Philadelphia",34.3
+5,7,"Phoenix",47.5
+5,7,"Pittsburgh",29.9
+5,7,"Portland",29.4
+5,7,"Raleigh",29.5
+5,7,"Sacramento",30.6
+5,7,"San Francisco",32
+5,7,"Seattle",29.9
+5,7,"St. Louis",31.4
+5,7,"Tampa-St. Petersburg",39.1
+5,7,"Washington DC",32.8
+5,8,"Atlanta",48.1
+5,8,"Boston",51.6
+5,8,"Charlotte",46.2
+5,8,"Chicago",53.4
+5,8,"Cleveland",46.8
+5,8,"Dallas",49
+5,8,"Denver",61.7
+5,8,"Detroit",45.5
+5,8,"Houston",54.5
+5,8,"Los Angeles",58.3
+5,8,"Miami",65.2
+5,8,"Minneapolis",49.5
+5,8,"New York",55.5
+5,8,"Orlando",59.7
+5,8,"Philadelphia",49.3
+5,8,"Phoenix",65.4
+5,8,"Pittsburgh",45
+5,8,"Portland",44.1
+5,8,"Raleigh",44.9
+5,8,"Sacramento",46.5
+5,8,"San Francisco",46.7
+5,8,"Seattle",47.2
+5,8,"St. Louis",51.5
+5,8,"Tampa-St. Petersburg",57.2
+5,8,"Washington DC",47.3
+5,9,"Atlanta",69
+5,9,"Boston",71.9
+5,9,"Charlotte",68.6
+5,9,"Chicago",71.4
+5,9,"Cleveland",69.6
+5,9,"Dallas",67.1
+5,9,"Denver",81.6
+5,9,"Detroit",68.9
+5,9,"Houston",74.2
+5,9,"Los Angeles",73.3
+5,9,"Miami",91
+5,9,"Minneapolis",72.9
+5,9,"New York",73.4
+5,9,"Orlando",87
+5,9,"Philadelphia",70.3
+5,9,"Phoenix",85.8
+5,9,"Pittsburgh",66.4
+5,9,"Portland",66.9
+5,9,"Raleigh",69.6
+5,9,"Sacramento",67.7
+5,9,"San Francisco",64.9
+5,9,"Seattle",69.6
+5,9,"St. Louis",73.8
+5,9,"Tampa-St. Petersburg",84.5
+5,9,"Washington DC",69
+5,10,"Atlanta",73.8
+5,10,"Boston",73.7
+5,10,"Charlotte",70.5
+5,10,"Chicago",69.3
+5,10,"Cleveland",70.7
+5,10,"Dallas",69.2
+5,10,"Denver",77.8
+5,10,"Detroit",65.9
+5,10,"Houston",73
+5,10,"Los Angeles",74.4
+5,10,"Miami",86.4
+5,10,"Minneapolis",72
+5,10,"New York",72.9
+5,10,"Orlando",89.7
+5,10,"Philadelphia",72.6
+5,10,"Phoenix",80.3
+5,10,"Pittsburgh",66.4
+5,10,"Portland",70.1
+5,10,"Raleigh",71.5
+5,10,"Sacramento",74.8
+5,10,"San Francisco",72.1
+5,10,"Seattle",71.3
+5,10,"St. Louis",73.1
+5,10,"Tampa-St. Petersburg",84.3
+5,10,"Washington DC",72
+5,11,"Atlanta",83.8
+5,11,"Boston",82
+5,11,"Charlotte",82.6
+5,11,"Chicago",76.2
+5,11,"Cleveland",83.5
+5,11,"Dallas",78.9
+5,11,"Denver",90.2
+5,11,"Detroit",79.4
+5,11,"Houston",80.8
+5,11,"Los Angeles",82.6
+5,11,"Miami",92.2
+5,11,"Minneapolis",80.3
+5,11,"New York",81.9
+5,11,"Orlando",97.8
+5,11,"Philadelphia",79.9
+5,11,"Phoenix",90.5
+5,11,"Pittsburgh",76.8
+5,11,"Portland",82.7
+5,11,"Raleigh",80.8
+5,11,"Sacramento",86.8
+5,11,"San Francisco",82.7
+5,11,"Seattle",82.4
+5,11,"St. Louis",80.8
+5,11,"Tampa-St. Petersburg",94.5
+5,11,"Washington DC",82.2
+5,12,"Atlanta",87.8
+5,12,"Boston",86.9
+5,12,"Charlotte",85.9
+5,12,"Chicago",84.6
+5,12,"Cleveland",83
+5,12,"Dallas",87.3
+5,12,"Denver",94.7
+5,12,"Detroit",78.5
+5,12,"Houston",88.6
+5,12,"Los Angeles",84.9
+5,12,"Miami",90.9
+5,12,"Minneapolis",86.3
+5,12,"New York",86.3
+5,12,"Orlando",95.8
+5,12,"Philadelphia",85.7
+5,12,"Phoenix",93
+5,12,"Pittsburgh",81.3
+5,12,"Portland",86.8
+5,12,"Raleigh",87.2
+5,12,"Sacramento",98
+5,12,"San Francisco",87.3
+5,12,"Seattle",89.2
+5,12,"St. Louis",86.5
+5,12,"Tampa-St. Petersburg",91.1
+5,12,"Washington DC",88.1
+5,13,"Atlanta",91.2
+5,13,"Boston",89.4
+5,13,"Charlotte",93.2
+5,13,"Chicago",86.6
+5,13,"Cleveland",79.6
+5,13,"Dallas",87.6
+5,13,"Denver",93.6
+5,13,"Detroit",79.1
+5,13,"Houston",90.4
+5,13,"Los Angeles",84.5
+5,13,"Miami",93.6
+5,13,"Minneapolis",87.1
+5,13,"New York",89.7
+5,13,"Orlando",93.5
+5,13,"Philadelphia",89.3
+5,13,"Phoenix",88.6
+5,13,"Pittsburgh",83.8
+5,13,"Portland",88.1
+5,13,"Raleigh",84.4
+5,13,"Sacramento",96.6
+5,13,"San Francisco",86.3
+5,13,"Seattle",87.5
+5,13,"St. Louis",86.6
+5,13,"Tampa-St. Petersburg",88.5
+5,13,"Washington DC",92.4
+5,14,"Atlanta",90.4
+5,14,"Boston",89.3
+5,14,"Charlotte",93.2
+5,14,"Chicago",85.3
+5,14,"Cleveland",78.4
+5,14,"Dallas",85.4
+5,14,"Denver",89
+5,14,"Detroit",80.1
+5,14,"Houston",87.6
+5,14,"Los Angeles",88.7
+5,14,"Miami",90.8
+5,14,"Minneapolis",86.6
+5,14,"New York",89.9
+5,14,"Orlando",92
+5,14,"Philadelphia",89.2
+5,14,"Phoenix",84
+5,14,"Pittsburgh",83.8
+5,14,"Portland",89.7
+5,14,"Raleigh",85.5
+5,14,"Sacramento",98.2
+5,14,"San Francisco",88.5
+5,14,"Seattle",88.1
+5,14,"St. Louis",84
+5,14,"Tampa-St. Petersburg",87.9
+5,14,"Washington DC",90.6
+5,15,"Atlanta",100
+5,15,"Boston",100
+5,15,"Charlotte",100
+5,15,"Chicago",96.7
+5,15,"Cleveland",91.2
+5,15,"Dallas",98.1
+5,15,"Denver",100
+5,15,"Detroit",96.6
+5,15,"Houston",99.4
+5,15,"Los Angeles",94.4
+5,15,"Miami",100
+5,15,"Minneapolis",99.4
+5,15,"New York",100
+5,15,"Orlando",100
+5,15,"Philadelphia",100
+5,15,"Phoenix",100
+5,15,"Pittsburgh",100
+5,15,"Portland",97.5
+5,15,"Raleigh",100
+5,15,"Sacramento",100
+5,15,"San Francisco",93.9
+5,15,"Seattle",97.4
+5,15,"St. Louis",96.3
+5,15,"Tampa-St. Petersburg",100
+5,15,"Washington DC",100
+5,16,"Atlanta",98
+5,16,"Boston",93.2
+5,16,"Charlotte",99.5
+5,16,"Chicago",100
+5,16,"Cleveland",100
+5,16,"Dallas",100
+5,16,"Denver",88.3
+5,16,"Detroit",100
+5,16,"Houston",100
+5,16,"Los Angeles",100
+5,16,"Miami",95.6
+5,16,"Minneapolis",100
+5,16,"New York",94.7
+5,16,"Orlando",96.9
+5,16,"Philadelphia",92.3
+5,16,"Phoenix",93.2
+5,16,"Pittsburgh",94.5
+5,16,"Portland",100
+5,16,"Raleigh",96.2
+5,16,"Sacramento",98.4
+5,16,"San Francisco",100
+5,16,"Seattle",100
+5,16,"St. Louis",100
+5,16,"Tampa-St. Petersburg",95.7
+5,16,"Washington DC",95.4
+5,17,"Atlanta",95.6
+5,17,"Boston",88.2
+5,17,"Charlotte",95.3
+5,17,"Chicago",87.6
+5,17,"Cleveland",94.7
+5,17,"Dallas",91.5
+5,17,"Denver",88.9
+5,17,"Detroit",96.1
+5,17,"Houston",88
+5,17,"Los Angeles",94
+5,17,"Miami",97.5
+5,17,"Minneapolis",84.3
+5,17,"New York",94.9
+5,17,"Orlando",97.6
+5,17,"Philadelphia",88.4
+5,17,"Phoenix",94.1
+5,17,"Pittsburgh",88.8
+5,17,"Portland",86.5
+5,17,"Raleigh",91.8
+5,17,"Sacramento",87.2
+5,17,"San Francisco",92.4
+5,17,"Seattle",88.1
+5,17,"St. Louis",87.3
+5,17,"Tampa-St. Petersburg",92.5
+5,17,"Washington DC",90.7
+5,18,"Atlanta",81.6
+5,18,"Boston",72
+5,18,"Charlotte",72.9
+5,18,"Chicago",80.2
+5,18,"Cleveland",78.6
+5,18,"Dallas",86.9
+5,18,"Denver",73.3
+5,18,"Detroit",77.3
+5,18,"Houston",84.6
+5,18,"Los Angeles",84.7
+5,18,"Miami",87.2
+5,18,"Minneapolis",73.2
+5,18,"New York",82
+5,18,"Orlando",83.6
+5,18,"Philadelphia",70.5
+5,18,"Phoenix",82
+5,18,"Pittsburgh",69
+5,18,"Portland",74.5
+5,18,"Raleigh",74.3
+5,18,"Sacramento",73.2
+5,18,"San Francisco",83.1
+5,18,"Seattle",74.6
+5,18,"St. Louis",75
+5,18,"Tampa-St. Petersburg",78.2
+5,18,"Washington DC",76.4
+5,19,"Atlanta",63.9
+5,19,"Boston",52.5
+5,19,"Charlotte",59.6
+5,19,"Chicago",56.8
+5,19,"Cleveland",58
+5,19,"Dallas",60.2
+5,19,"Denver",52.1
+5,19,"Detroit",58
+5,19,"Houston",60.2
+5,19,"Los Angeles",63.4
+5,19,"Miami",72.5
+5,19,"Minneapolis",47.9
+5,19,"New York",68.2
+5,19,"Orlando",68.5
+5,19,"Philadelphia",52.2
+5,19,"Phoenix",61.8
+5,19,"Pittsburgh",49
+5,19,"Portland",49.7
+5,19,"Raleigh",55
+5,19,"Sacramento",49.8
+5,19,"San Francisco",61
+5,19,"Seattle",51.2
+5,19,"St. Louis",51.2
+5,19,"Tampa-St. Petersburg",58.1
+5,19,"Washington DC",60.4
+5,20,"Atlanta",49
+5,20,"Boston",38.4
+5,20,"Charlotte",44.8
+5,20,"Chicago",46.5
+5,20,"Cleveland",43.5
+5,20,"Dallas",46.6
+5,20,"Denver",40
+5,20,"Detroit",44.1
+5,20,"Houston",45.9
+5,20,"Los Angeles",50.1
+5,20,"Miami",52.1
+5,20,"Minneapolis",37.8
+5,20,"New York",52.8
+5,20,"Orlando",51.7
+5,20,"Philadelphia",39
+5,20,"Phoenix",47
+5,20,"Pittsburgh",35.2
+5,20,"Portland",35.5
+5,20,"Raleigh",42
+5,20,"Sacramento",38.2
+5,20,"San Francisco",49.1
+5,20,"Seattle",38.8
+5,20,"St. Louis",41.4
+5,20,"Tampa-St. Petersburg",43.3
+5,20,"Washington DC",45.6
+5,21,"Atlanta",39
+5,21,"Boston",32.9
+5,21,"Charlotte",36.7
+5,21,"Chicago",38
+5,21,"Cleveland",36.7
+5,21,"Dallas",36.7
+5,21,"Denver",32.4
+5,21,"Detroit",37.8
+5,21,"Houston",36.8
+5,21,"Los Angeles",44.3
+5,21,"Miami",42.3
+5,21,"Minneapolis",32
+5,21,"New York",46.4
+5,21,"Orlando",44.3
+5,21,"Philadelphia",34.1
+5,21,"Phoenix",36.8
+5,21,"Pittsburgh",29.1
+5,21,"Portland",28.8
+5,21,"Raleigh",34.2
+5,21,"Sacramento",29.7
+5,21,"San Francisco",39.1
+5,21,"Seattle",30.9
+5,21,"St. Louis",34.2
+5,21,"Tampa-St. Petersburg",36.3
+5,21,"Washington DC",38.5
+5,22,"Atlanta",30.9
+5,22,"Boston",27.5
+5,22,"Charlotte",29
+5,22,"Chicago",30.4
+5,22,"Cleveland",31.5
+5,22,"Dallas",30.7
+5,22,"Denver",26.5
+5,22,"Detroit",32.3
+5,22,"Houston",27.7
+5,22,"Los Angeles",38.7
+5,22,"Miami",36.2
+5,22,"Minneapolis",24.8
+5,22,"New York",39.6
+5,22,"Orlando",36.5
+5,22,"Philadelphia",29.1
+5,22,"Phoenix",27.6
+5,22,"Pittsburgh",25.3
+5,22,"Portland",20.6
+5,22,"Raleigh",24.7
+5,22,"Sacramento",24.5
+5,22,"San Francisco",32.8
+5,22,"Seattle",25.3
+5,22,"St. Louis",24.9
+5,22,"Tampa-St. Petersburg",28.1
+5,22,"Washington DC",30.9
+5,23,"Atlanta",20.5
+5,23,"Boston",19.7
+5,23,"Charlotte",18.1
+5,23,"Chicago",21.9
+5,23,"Cleveland",20.9
+5,23,"Dallas",20.2
+5,23,"Denver",17
+5,23,"Detroit",20.6
+5,23,"Houston",18.8
+5,23,"Los Angeles",25.4
+5,23,"Miami",26.8
+5,23,"Minneapolis",15.1
+5,23,"New York",30.7
+5,23,"Orlando",25
+5,23,"Philadelphia",21.2
+5,23,"Phoenix",18.5
+5,23,"Pittsburgh",16.2
+5,23,"Portland",14.5
+5,23,"Raleigh",16.8
+5,23,"Sacramento",15.1
+5,23,"San Francisco",21.5
+5,23,"Seattle",15
+5,23,"St. Louis",15.2
+5,23,"Tampa-St. Petersburg",17.9
+5,23,"Washington DC",20.6
+6,0,"Atlanta",10.3
+6,0,"Boston",13.7
+6,0,"Charlotte",8.8
+6,0,"Chicago",18.1
+6,0,"Cleveland",13.1
+6,0,"Dallas",13.3
+6,0,"Denver",9.7
+6,0,"Detroit",12.7
+6,0,"Houston",12.1
+6,0,"Los Angeles",16.4
+6,0,"Miami",16.1
+6,0,"Minneapolis",10.8
+6,0,"New York",17.3
+6,0,"Orlando",13.3
+6,0,"Philadelphia",12.9
+6,0,"Phoenix",11.3
+6,0,"Pittsburgh",8.6
+6,0,"Portland",8.2
+6,0,"Raleigh",9
+6,0,"Sacramento",8.6
+6,0,"San Francisco",13.3
+6,0,"Seattle",8.2
+6,0,"St. Louis",11
+6,0,"Tampa-St. Petersburg",10.5
+6,0,"Washington DC",9.2
+6,1,"Atlanta",5.2
+6,1,"Boston",7.6
+6,1,"Charlotte",5
+6,1,"Chicago",7.9
+6,1,"Cleveland",6.6
+6,1,"Dallas",6.4
+6,1,"Denver",2.7
+6,1,"Detroit",6.9
+6,1,"Houston",6.3
+6,1,"Los Angeles",7.4
+6,1,"Miami",7.8
+6,1,"Minneapolis",6
+6,1,"New York",8.9
+6,1,"Orlando",4.6
+6,1,"Philadelphia",7
+6,1,"Phoenix",5.1
+6,1,"Pittsburgh",4.6
+6,1,"Portland",3.1
+6,1,"Raleigh",5.5
+6,1,"Sacramento",4.5
+6,1,"San Francisco",5.9
+6,1,"Seattle",4.1
+6,1,"St. Louis",5.8
+6,1,"Tampa-St. Petersburg",4.9
+6,1,"Washington DC",4.2
+6,2,"Atlanta",1.6
+6,2,"Boston",3.5
+6,2,"Charlotte",2.3
+6,2,"Chicago",2.5
+6,2,"Cleveland",3.8
+6,2,"Dallas",3.6
+6,2,"Denver",1.7
+6,2,"Detroit",4.1
+6,2,"Houston",4
+6,2,"Los Angeles",4
+6,2,"Miami",1.7
+6,2,"Minneapolis",3.3
+6,2,"New York",3.2
+6,2,"Orlando",1.6
+6,2,"Philadelphia",3.2
+6,2,"Phoenix",2.2
+6,2,"Pittsburgh",2.5
+6,2,"Portland",1.3
+6,2,"Raleigh",2.5
+6,2,"Sacramento",2.2
+6,2,"San Francisco",3
+6,2,"Seattle",2.1
+6,2,"St. Louis",1.9
+6,2,"Tampa-St. Petersburg",1.3
+6,2,"Washington DC",1.4
+6,3,"Atlanta",0.4
+6,3,"Boston",0
+6,3,"Charlotte",0
+6,3,"Chicago",0
+6,3,"Cleveland",0.7
+6,3,"Dallas",0.3
+6,3,"Denver",0
+6,3,"Detroit",0.6
+6,3,"Houston",0
+6,3,"Los Angeles",0
+6,3,"Miami",0
+6,3,"Minneapolis",0.4
+6,3,"New York",0
+6,3,"Orlando",0
+6,3,"Philadelphia",0
+6,3,"Phoenix",0
+6,3,"Pittsburgh",0
+6,3,"Portland",0
+6,3,"Raleigh",0
+6,3,"Sacramento",0
+6,3,"San Francisco",0
+6,3,"Seattle",0
+6,3,"St. Louis",0
+6,3,"Tampa-St. Petersburg",0.4
+6,3,"Washington DC",0
+6,4,"Atlanta",0
+6,4,"Boston",0.3
+6,4,"Charlotte",0.9
+6,4,"Chicago",1
+6,4,"Cleveland",0
+6,4,"Dallas",0
+6,4,"Denver",0.2
+6,4,"Detroit",0
+6,4,"Houston",0
+6,4,"Los Angeles",0.2
+6,4,"Miami",0.4
+6,4,"Minneapolis",0
+6,4,"New York",0.6
+6,4,"Orlando",1.6
+6,4,"Philadelphia",0.4
+6,4,"Phoenix",1.2
+6,4,"Pittsburgh",0.5
+6,4,"Portland",1
+6,4,"Raleigh",0.7
+6,4,"Sacramento",1.3
+6,4,"San Francisco",0.9
+6,4,"Seattle",0.8
+6,4,"St. Louis",0.3
+6,4,"Tampa-St. Petersburg",0
+6,4,"Washington DC",0.3
+6,5,"Atlanta",4
+6,5,"Boston",3.4
+6,5,"Charlotte",4.5
+6,5,"Chicago",5.4
+6,5,"Cleveland",3.3
+6,5,"Dallas",3.3
+6,5,"Denver",5.1
+6,5,"Detroit",2
+6,5,"Houston",2.3
+6,5,"Los Angeles",4.1
+6,5,"Miami",3.9
+6,5,"Minneapolis",2.2
+6,5,"New York",4
+6,5,"Orlando",5.7
+6,5,"Philadelphia",3.7
+6,5,"Phoenix",5.3
+6,5,"Pittsburgh",2.3
+6,5,"Portland",3.1
+6,5,"Raleigh",3.3
+6,5,"Sacramento",3.5
+6,5,"San Francisco",3.5
+6,5,"Seattle",3.6
+6,5,"St. Louis",4.2
+6,5,"Tampa-St. Petersburg",3.2
+6,5,"Washington DC",4
+6,6,"Atlanta",12.1
+6,6,"Boston",13.8
+6,6,"Charlotte",14.1
+6,6,"Chicago",15.9
+6,6,"Cleveland",12.8
+6,6,"Dallas",10.3
+6,6,"Denver",19
+6,6,"Detroit",10
+6,6,"Houston",10.5
+6,6,"Los Angeles",16.7
+6,6,"Miami",15.7
+6,6,"Minneapolis",7.5
+6,6,"New York",15.4
+6,6,"Orlando",16.2
+6,6,"Philadelphia",14.8
+6,6,"Phoenix",15.8
+6,6,"Pittsburgh",10.9
+6,6,"Portland",11.1
+6,6,"Raleigh",10.3
+6,6,"Sacramento",12.9
+6,6,"San Francisco",13.3
+6,6,"Seattle",12.3
+6,6,"St. Louis",14.3
+6,6,"Tampa-St. Petersburg",12.6
+6,6,"Washington DC",14.4
+6,7,"Atlanta",22.5
+6,7,"Boston",26.4
+6,7,"Charlotte",27.1
+6,7,"Chicago",31.1
+6,7,"Cleveland",24.7
+6,7,"Dallas",22.1
+6,7,"Denver",34.4
+6,7,"Detroit",20.2
+6,7,"Houston",23.1
+6,7,"Los Angeles",35.6
+6,7,"Miami",31.8
+6,7,"Minneapolis",18.6
+6,7,"New York",29.1
+6,7,"Orlando",31.6
+6,7,"Philadelphia",28.4
+6,7,"Phoenix",33.4
+6,7,"Pittsburgh",24.7
+6,7,"Portland",23.5
+6,7,"Raleigh",23.6
+6,7,"Sacramento",28.8
+6,7,"San Francisco",26.3
+6,7,"Seattle",25.1
+6,7,"St. Louis",31.4
+6,7,"Tampa-St. Petersburg",29.1
+6,7,"Washington DC",27.6
+6,8,"Atlanta",35
+6,8,"Boston",42
+6,8,"Charlotte",42.2
+6,8,"Chicago",54.5
+6,8,"Cleveland",39.7
+6,8,"Dallas",40.5
+6,8,"Denver",53.3
+6,8,"Detroit",33.3
+6,8,"Houston",41.6
+6,8,"Los Angeles",51.4
+6,8,"Miami",47.3
+6,8,"Minneapolis",37.9
+6,8,"New York",42.6
+6,8,"Orlando",49.2
+6,8,"Philadelphia",45.1
+6,8,"Phoenix",52
+6,8,"Pittsburgh",40.7
+6,8,"Portland",40.5
+6,8,"Raleigh",40.1
+6,8,"Sacramento",47.8
+6,8,"San Francisco",41.4
+6,8,"Seattle",42.9
+6,8,"St. Louis",54.5
+6,8,"Tampa-St. Petersburg",47.4
+6,8,"Washington DC",41.7
+6,9,"Atlanta",55.9
+6,9,"Boston",66.6
+6,9,"Charlotte",67.2
+6,9,"Chicago",79.7
+6,9,"Cleveland",66.4
+6,9,"Dallas",61.4
+6,9,"Denver",72.4
+6,9,"Detroit",58.3
+6,9,"Houston",63.1
+6,9,"Los Angeles",71.7
+6,9,"Miami",72.8
+6,9,"Minneapolis",58.4
+6,9,"New York",64
+6,9,"Orlando",75.1
+6,9,"Philadelphia",70
+6,9,"Phoenix",71.3
+6,9,"Pittsburgh",68.4
+6,9,"Portland",66.1
+6,9,"Raleigh",64.2
+6,9,"Sacramento",71.9
+6,9,"San Francisco",62
+6,9,"Seattle",70.4
+6,9,"St. Louis",80.5
+6,9,"Tampa-St. Petersburg",78.4
+6,9,"Washington DC",65.1
+6,10,"Atlanta",60.1
+6,10,"Boston",72
+6,10,"Charlotte",67.9
+6,10,"Chicago",77
+6,10,"Cleveland",66.5
+6,10,"Dallas",62.4
+6,10,"Denver",73.3
+6,10,"Detroit",54.7
+6,10,"Houston",61.6
+6,10,"Los Angeles",72.4
+6,10,"Miami",72
+6,10,"Minneapolis",57.3
+6,10,"New York",67.7
+6,10,"Orlando",83.1
+6,10,"Philadelphia",74.8
+6,10,"Phoenix",68.3
+6,10,"Pittsburgh",67.3
+6,10,"Portland",64.2
+6,10,"Raleigh",63.7
+6,10,"Sacramento",71.9
+6,10,"San Francisco",68.4
+6,10,"Seattle",67.3
+6,10,"St. Louis",77.6
+6,10,"Tampa-St. Petersburg",77.5
+6,10,"Washington DC",67.6
+6,11,"Atlanta",66.5
+6,11,"Boston",86.8
+6,11,"Charlotte",79
+6,11,"Chicago",85.7
+6,11,"Cleveland",75.4
+6,11,"Dallas",71.7
+6,11,"Denver",88.5
+6,11,"Detroit",63.9
+6,11,"Houston",69.6
+6,11,"Los Angeles",81
+6,11,"Miami",80.2
+6,11,"Minneapolis",69.7
+6,11,"New York",77.7
+6,11,"Orlando",90
+6,11,"Philadelphia",84.1
+6,11,"Phoenix",79.8
+6,11,"Pittsburgh",78
+6,11,"Portland",75.3
+6,11,"Raleigh",72.1
+6,11,"Sacramento",84
+6,11,"San Francisco",78.2
+6,11,"Seattle",76
+6,11,"St. Louis",85.3
+6,11,"Tampa-St. Petersburg",87.7
+6,11,"Washington DC",75.7
+6,12,"Atlanta",78.3
+6,12,"Boston",97.5
+6,12,"Charlotte",92.1
+6,12,"Chicago",98.7
+6,12,"Cleveland",91.7
+6,12,"Dallas",87.5
+6,12,"Denver",98.6
+6,12,"Detroit",74.9
+6,12,"Houston",82.7
+6,12,"Los Angeles",85.7
+6,12,"Miami",85.9
+6,12,"Minneapolis",85.4
+6,12,"New York",83.4
+6,12,"Orlando",93.3
+6,12,"Philadelphia",91.8
+6,12,"Phoenix",86.8
+6,12,"Pittsburgh",88
+6,12,"Portland",87
+6,12,"Raleigh",84.3
+6,12,"Sacramento",93.7
+6,12,"San Francisco",84.6
+6,12,"Seattle",83.8
+6,12,"St. Louis",100
+6,12,"Tampa-St. Petersburg",93.9
+6,12,"Washington DC",83.7
+6,13,"Atlanta",88.6
+6,13,"Boston",97.8
+6,13,"Charlotte",93.7
+6,13,"Chicago",100
+6,13,"Cleveland",93
+6,13,"Dallas",92.7
+6,13,"Denver",100
+6,13,"Detroit",84.7
+6,13,"Houston",87.6
+6,13,"Los Angeles",88.2
+6,13,"Miami",90.4
+6,13,"Minneapolis",87.9
+6,13,"New York",90.5
+6,13,"Orlando",93.2
+6,13,"Philadelphia",94.7
+6,13,"Phoenix",86
+6,13,"Pittsburgh",91.6
+6,13,"Portland",92.5
+6,13,"Raleigh",89.9
+6,13,"Sacramento",92.2
+6,13,"San Francisco",88.5
+6,13,"Seattle",91.5
+6,13,"St. Louis",96.8
+6,13,"Tampa-St. Petersburg",93.6
+6,13,"Washington DC",90.9
+6,14,"Atlanta",92.3
+6,14,"Boston",92.4
+6,14,"Charlotte",82.2
+6,14,"Chicago",94.8
+6,14,"Cleveland",89.5
+6,14,"Dallas",90.7
+6,14,"Denver",89.4
+6,14,"Detroit",83.6
+6,14,"Houston",85.8
+6,14,"Los Angeles",89.5
+6,14,"Miami",89.3
+6,14,"Minneapolis",86
+6,14,"New York",91.6
+6,14,"Orlando",90.2
+6,14,"Philadelphia",92.1
+6,14,"Phoenix",82.2
+6,14,"Pittsburgh",86.7
+6,14,"Portland",93.3
+6,14,"Raleigh",91.9
+6,14,"Sacramento",96.9
+6,14,"San Francisco",90.5
+6,14,"Seattle",94.1
+6,14,"St. Louis",88.8
+6,14,"Tampa-St. Petersburg",86.2
+6,14,"Washington DC",91.2
+6,15,"Atlanta",100
+6,15,"Boston",100
+6,15,"Charlotte",97.5
+6,15,"Chicago",98.6
+6,15,"Cleveland",100
+6,15,"Dallas",100
+6,15,"Denver",98.4
+6,15,"Detroit",100
+6,15,"Houston",100
+6,15,"Los Angeles",96.7
+6,15,"Miami",100
+6,15,"Minneapolis",100
+6,15,"New York",100
+6,15,"Orlando",100
+6,15,"Philadelphia",100
+6,15,"Phoenix",100
+6,15,"Pittsburgh",100
+6,15,"Portland",99.7
+6,15,"Raleigh",100
+6,15,"Sacramento",99.8
+6,15,"San Francisco",95.6
+6,15,"Seattle",100
+6,15,"St. Louis",97.5
+6,15,"Tampa-St. Petersburg",96.7
+6,15,"Washington DC",100
+6,16,"Atlanta",94
+6,16,"Boston",98
+6,16,"Charlotte",95.1
+6,16,"Chicago",89.8
+6,16,"Cleveland",99.1
+6,16,"Dallas",99.2
+6,16,"Denver",88.7
+6,16,"Detroit",92.9
+6,16,"Houston",100
+6,16,"Los Angeles",100
+6,16,"Miami",94.5
+6,16,"Minneapolis",97.7
+6,16,"New York",95.2
+6,16,"Orlando",93.4
+6,16,"Philadelphia",98.5
+6,16,"Phoenix",91.9
+6,16,"Pittsburgh",88.2
+6,16,"Portland",100
+6,16,"Raleigh",96.5
+6,16,"Sacramento",100
+6,16,"San Francisco",100
+6,16,"Seattle",99.7
+6,16,"St. Louis",91.8
+6,16,"Tampa-St. Petersburg",100
+6,16,"Washington DC",95.8
+6,17,"Atlanta",86.4
+6,17,"Boston",91.1
+6,17,"Charlotte",100
+6,17,"Chicago",68.8
+6,17,"Cleveland",96.3
+6,17,"Dallas",84.4
+6,17,"Denver",90
+6,17,"Detroit",85.1
+6,17,"Houston",82.4
+6,17,"Los Angeles",88.5
+6,17,"Miami",92.2
+6,17,"Minneapolis",81.5
+6,17,"New York",90.7
+6,17,"Orlando",91.7
+6,17,"Philadelphia",95.7
+6,17,"Phoenix",90.3
+6,17,"Pittsburgh",75.6
+6,17,"Portland",82.3
+6,17,"Raleigh",88.6
+6,17,"Sacramento",83.4
+6,17,"San Francisco",90.9
+6,17,"Seattle",85
+6,17,"St. Louis",68.6
+6,17,"Tampa-St. Petersburg",96.1
+6,17,"Washington DC",90.5
+6,18,"Atlanta",68.2
+6,18,"Boston",68.8
+6,18,"Charlotte",75.3
+6,18,"Chicago",55.6
+6,18,"Cleveland",71.5
+6,18,"Dallas",75.5
+6,18,"Denver",85.8
+6,18,"Detroit",66.6
+6,18,"Houston",74.4
+6,18,"Los Angeles",77.2
+6,18,"Miami",77.5
+6,18,"Minneapolis",64.3
+6,18,"New York",72.2
+6,18,"Orlando",76.4
+6,18,"Philadelphia",76.8
+6,18,"Phoenix",73.3
+6,18,"Pittsburgh",56.8
+6,18,"Portland",64.5
+6,18,"Raleigh",65
+6,18,"Sacramento",66.4
+6,18,"San Francisco",79.6
+6,18,"Seattle",73.4
+6,18,"St. Louis",55.3
+6,18,"Tampa-St. Petersburg",73.4
+6,18,"Washington DC",71.2
+6,19,"Atlanta",53
+6,19,"Boston",49.5
+6,19,"Charlotte",52.8
+6,19,"Chicago",36.4
+6,19,"Cleveland",47.5
+6,19,"Dallas",50.6
+6,19,"Denver",56.2
+6,19,"Detroit",47.1
+6,19,"Houston",49.3
+6,19,"Los Angeles",57.6
+6,19,"Miami",57.5
+6,19,"Minneapolis",37.9
+6,19,"New York",56.5
+6,19,"Orlando",58.6
+6,19,"Philadelphia",65.3
+6,19,"Phoenix",52.4
+6,19,"Pittsburgh",45.5
+6,19,"Portland",46.1
+6,19,"Raleigh",46.7
+6,19,"Sacramento",47.1
+6,19,"San Francisco",59.5
+6,19,"Seattle",49
+6,19,"St. Louis",35.8
+6,19,"Tampa-St. Petersburg",51.4
+6,19,"Washington DC",54.1
+6,20,"Atlanta",40.8
+6,20,"Boston",34.9
+6,20,"Charlotte",35.4
+6,20,"Chicago",26.4
+6,20,"Cleveland",33.5
+6,20,"Dallas",36.6
+6,20,"Denver",38.5
+6,20,"Detroit",33.5
+6,20,"Houston",34.9
+6,20,"Los Angeles",46.1
+6,20,"Miami",42.9
+6,20,"Minneapolis",24.4
+6,20,"New York",43.5
+6,20,"Orlando",41.8
+6,20,"Philadelphia",53
+6,20,"Phoenix",37.7
+6,20,"Pittsburgh",33.6
+6,20,"Portland",30.8
+6,20,"Raleigh",31.4
+6,20,"Sacramento",33.1
+6,20,"San Francisco",44.3
+6,20,"Seattle",34.7
+6,20,"St. Louis",24
+6,20,"Tampa-St. Petersburg",33.8
+6,20,"Washington DC",39.1
+6,21,"Atlanta",28
+6,21,"Boston",25.3
+6,21,"Charlotte",25.1
+6,21,"Chicago",16.8
+6,21,"Cleveland",22.9
+6,21,"Dallas",25.7
+6,21,"Denver",25.4
+6,21,"Detroit",22.5
+6,21,"Houston",24.1
+6,21,"Los Angeles",35.2
+6,21,"Miami",30.8
+6,21,"Minneapolis",16.9
+6,21,"New York",32.7
+6,21,"Orlando",31.3
+6,21,"Philadelphia",40.9
+6,21,"Phoenix",25.3
+6,21,"Pittsburgh",21.2
+6,21,"Portland",20.3
+6,21,"Raleigh",22.5
+6,21,"Sacramento",22
+6,21,"San Francisco",33.5
+6,21,"Seattle",22.7
+6,21,"St. Louis",15.4
+6,21,"Tampa-St. Petersburg",23.8
+6,21,"Washington DC",27.8
+6,22,"Atlanta",18
+6,22,"Boston",15.9
+6,22,"Charlotte",14.8
+6,22,"Chicago",8.9
+6,22,"Cleveland",14.7
+6,22,"Dallas",15.4
+6,22,"Denver",13.9
+6,22,"Detroit",14.2
+6,22,"Houston",13.6
+6,22,"Los Angeles",25.1
+6,22,"Miami",20.2
+6,22,"Minneapolis",13.3
+6,22,"New York",23.1
+6,22,"Orlando",20.4
+6,22,"Philadelphia",26.9
+6,22,"Phoenix",15.7
+6,22,"Pittsburgh",13.3
+6,22,"Portland",12.3
+6,22,"Raleigh",13.9
+6,22,"Sacramento",13.7
+6,22,"San Francisco",22.2
+6,22,"Seattle",14.6
+6,22,"St. Louis",7.7
+6,22,"Tampa-St. Petersburg",16.2
+6,22,"Washington DC",17.9
+6,23,"Atlanta",8.4
+6,23,"Boston",9.2
+6,23,"Charlotte",6.9
+6,23,"Chicago",2.7
+6,23,"Cleveland",9.3
+6,23,"Dallas",6.5
+6,23,"Denver",8.3
+6,23,"Detroit",6.9
+6,23,"Houston",5.8
+6,23,"Los Angeles",12.2
+6,23,"Miami",9.6
+6,23,"Minneapolis",13.5
+6,23,"New York",12.6
+6,23,"Orlando",11.5
+6,23,"Philadelphia",15.2
+6,23,"Phoenix",8.2
+6,23,"Pittsburgh",6.9
+6,23,"Portland",6.4
+6,23,"Raleigh",5
+6,23,"Sacramento",6.9
+6,23,"San Francisco",13.7
+6,23,"Seattle",7
+6,23,"St. Louis",2.2
+6,23,"Tampa-St. Petersburg",7.8
+6,23,"Washington DC",8.8

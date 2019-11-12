@@ -1,0 +1,201 @@
+"Day","Hour","Metro","When","Rank","Daylight"
+"Thanksgiving","3:00 AM","Atlanta","b","b",FALSE
+"Wednesday","2:00 AM","Boston","b","b",FALSE
+"Thanksgiving","3:00 AM","Charlotte","b","b",FALSE
+"Wednesday","2:00 AM","Chicago","b","b",FALSE
+"Thanksgiving","4:00 AM","Cleveland","b","b",FALSE
+"Thanksgiving","3:00 AM","Dallas","b","b",FALSE
+"Wednesday","2:00 AM","Denver","b","b",FALSE
+"Wednesday","2:00 AM","Detroit","b","b",FALSE
+"Thanksgiving","3:00 AM","Houston","b","b",FALSE
+"Wednesday","2:00 AM","Los Angeles","b","b",FALSE
+"Wednesday","2:00 AM","Miami","b","b",FALSE
+"Wednesday","2:00 AM","Minneapolis","b","b",FALSE
+"Wednesday","2:00 AM","New York","b","b",FALSE
+"Wednesday","2:00 AM","Orlando","b","b",FALSE
+"Wednesday","2:00 AM","Philadelphia","b","b",FALSE
+"Wednesday","2:00 AM","Phoenix","b","b",FALSE
+"Thanksgiving","4:00 AM","Pittsburgh","b","b",FALSE
+"Wednesday","2:00 AM","Portland","b","b",FALSE
+"Wednesday","2:00 AM","Raleigh","b","b",FALSE
+"Wednesday","2:00 AM","Sacramento","b","b",FALSE
+"Wednesday","2:00 AM","San Francisco","b","b",FALSE
+"Thanksgiving","3:00 AM","Seattle","b","b",FALSE
+"Wednesday","2:00 AM","St. Louis","b","b",FALSE
+"Wednesday","2:00 AM","Tampa","b","b",FALSE
+"Wednesday","2:00 AM","Washington DC","b","b",FALSE
+"Thanksgiving","6:00 AM","Atlanta","b","b",TRUE
+"Thanksgiving","6:00 AM","Boston","b","b",TRUE
+"Thanksgiving","6:00 AM","Charlotte","b","b",TRUE
+"Thanksgiving","6:00 AM","Chicago","b","b",TRUE
+"Thanksgiving","6:00 AM","Cleveland","b","b",TRUE
+"Thanksgiving","6:00 AM","Dallas","b","b",TRUE
+"Thanksgiving","6:00 AM","Denver","b","b",TRUE
+"Thanksgiving","6:00 AM","Detroit","b","b",TRUE
+"Thanksgiving","6:00 AM","Houston","b","b",TRUE
+"Thanksgiving","6:00 AM","Los Angeles","b","b",TRUE
+"Thanksgiving","6:00 AM","Miami","b","b",TRUE
+"Thanksgiving","6:00 AM","Minneapolis","b","b",TRUE
+"Thanksgiving","6:00 AM","New York","b","b",TRUE
+"Thanksgiving","6:00 AM","Orlando","b","b",TRUE
+"Thanksgiving","6:00 AM","Philadelphia","b","b",TRUE
+"Thanksgiving","6:00 AM","Phoenix","b","b",TRUE
+"Thanksgiving","6:00 AM","Pittsburgh","b","b",TRUE
+"Thanksgiving","6:00 AM","Portland","b","b",TRUE
+"Thanksgiving","6:00 AM","Raleigh","b","b",TRUE
+"Thanksgiving","6:00 AM","Sacramento","b","b",TRUE
+"Thanksgiving","6:00 AM","San Francisco","b","b",TRUE
+"Thanksgiving","6:00 AM","Seattle","b","b",TRUE
+"Thanksgiving","6:00 AM","St. Louis","b","b",TRUE
+"Thanksgiving","6:00 AM","Tampa","b","b",TRUE
+"Thanksgiving","6:00 AM","Washington DC","b","b",TRUE
+"Wednesday","3:00 PM","Atlanta","b","w",FALSE
+"Wednesday","3:00 PM","Boston","b","w",FALSE
+"Wednesday","3:00 PM","Charlotte","b","w",FALSE
+"Wednesday","4:00 PM","Chicago","b","w",FALSE
+"Wednesday","3:00 PM","Cleveland","b","w",FALSE
+"Wednesday","4:00 PM","Dallas","b","w",FALSE
+"Wednesday","3:00 PM","Denver","b","w",FALSE
+"Wednesday","3:00 PM","Detroit","b","w",FALSE
+"Wednesday","3:00 PM","Houston","b","w",FALSE
+"Wednesday","4:00 PM","Los Angeles","b","w",FALSE
+"Wednesday","8:00 AM","Miami","b","w",FALSE
+"Wednesday","4:00 PM","Minneapolis","b","w",FALSE
+"Wednesday","3:00 PM","New York","b","w",FALSE
+"Wednesday","3:00 PM","Orlando","b","w",FALSE
+"Wednesday","3:00 PM","Philadelphia","b","w",FALSE
+"Wednesday","3:00 PM","Phoenix","b","w",FALSE
+"Wednesday","3:00 PM","Pittsburgh","b","w",FALSE
+"Wednesday","4:00 PM","Portland","b","w",FALSE
+"Wednesday","3:00 PM","Raleigh","b","w",FALSE
+"Wednesday","3:00 PM","Sacramento","b","w",FALSE
+"Wednesday","4:00 PM","San Francisco","b","w",FALSE
+"Wednesday","4:00 PM","Seattle","b","w",FALSE
+"Wednesday","4:00 PM","St. Louis","b","w",FALSE
+"Wednesday","3:00 PM","Tampa","b","w",FALSE
+"Wednesday","3:00 PM","Washington DC","b","w",FALSE
+"Wednesday","3:00 PM","Atlanta","b","w",TRUE
+"Wednesday","3:00 PM","Boston","b","w",TRUE
+"Wednesday","3:00 PM","Charlotte","b","w",TRUE
+"Wednesday","4:00 PM","Chicago","b","w",TRUE
+"Wednesday","3:00 PM","Cleveland","b","w",TRUE
+"Wednesday","4:00 PM","Dallas","b","w",TRUE
+"Wednesday","3:00 PM","Denver","b","w",TRUE
+"Wednesday","3:00 PM","Detroit","b","w",TRUE
+"Wednesday","3:00 PM","Houston","b","w",TRUE
+"Wednesday","4:00 PM","Los Angeles","b","w",TRUE
+"Wednesday","8:00 AM","Miami","b","w",TRUE
+"Wednesday","4:00 PM","Minneapolis","b","w",TRUE
+"Wednesday","3:00 PM","New York","b","w",TRUE
+"Wednesday","3:00 PM","Orlando","b","w",TRUE
+"Wednesday","3:00 PM","Philadelphia","b","w",TRUE
+"Wednesday","3:00 PM","Phoenix","b","w",TRUE
+"Wednesday","3:00 PM","Pittsburgh","b","w",TRUE
+"Wednesday","4:00 PM","Portland","b","w",TRUE
+"Wednesday","3:00 PM","Raleigh","b","w",TRUE
+"Wednesday","3:00 PM","Sacramento","b","w",TRUE
+"Wednesday","4:00 PM","San Francisco","b","w",TRUE
+"Wednesday","4:00 PM","Seattle","b","w",TRUE
+"Wednesday","4:00 PM","St. Louis","b","w",TRUE
+"Wednesday","3:00 PM","Tampa","b","w",TRUE
+"Wednesday","3:00 PM","Washington DC","b","w",TRUE
+"Friday","3:00 AM","Atlanta","a","b",FALSE
+"Sunday","3:00 AM","Boston","a","b",FALSE
+"Friday","3:00 AM","Charlotte","a","b",FALSE
+"Friday","3:00 AM","Chicago","a","b",FALSE
+"Friday","3:00 AM","Cleveland","a","b",FALSE
+"Friday","3:00 AM","Dallas","a","b",FALSE
+"Friday","2:00 AM","Denver","a","b",FALSE
+"Friday","3:00 AM","Detroit","a","b",FALSE
+"Friday","3:00 AM","Houston","a","b",FALSE
+"Friday","3:00 AM","Los Angeles","a","b",FALSE
+"Friday","3:00 AM","Miami","a","b",FALSE
+"Friday","3:00 AM","Minneapolis","a","b",FALSE
+"Friday","3:00 AM","New York","a","b",FALSE
+"Friday","3:00 AM","Orlando","a","b",FALSE
+"Friday","3:00 AM","Philadelphia","a","b",FALSE
+"Friday","2:00 AM","Phoenix","a","b",FALSE
+"Friday","2:00 AM","Pittsburgh","a","b",FALSE
+"Friday","2:00 AM","Portland","a","b",FALSE
+"Friday","3:00 AM","Raleigh","a","b",FALSE
+"Friday","2:00 AM","Sacramento","a","b",FALSE
+"Friday","3:00 AM","San Francisco","a","b",FALSE
+"Friday","2:00 AM","Seattle","a","b",FALSE
+"Friday","2:00 AM","St. Louis","a","b",FALSE
+"Friday","2:00 AM","Tampa","a","b",FALSE
+"Friday","3:00 AM","Washington DC","a","b",FALSE
+"Sunday","6:00 AM","Atlanta","a","b",TRUE
+"Sunday","6:00 AM","Boston","a","b",TRUE
+"Sunday","6:00 AM","Charlotte","a","b",TRUE
+"Sunday","6:00 AM","Chicago","a","b",TRUE
+"Sunday","6:00 AM","Cleveland","a","b",TRUE
+"Sunday","6:00 AM","Dallas","a","b",TRUE
+"Sunday","6:00 AM","Denver","a","b",TRUE
+"Sunday","6:00 AM","Detroit","a","b",TRUE
+"Sunday","6:00 AM","Houston","a","b",TRUE
+"Sunday","6:00 AM","Los Angeles","a","b",TRUE
+"Sunday","6:00 AM","Miami","a","b",TRUE
+"Sunday","6:00 AM","Minneapolis","a","b",TRUE
+"Sunday","6:00 AM","New York","a","b",TRUE
+"Sunday","6:00 AM","Orlando","a","b",TRUE
+"Sunday","6:00 AM","Philadelphia","a","b",TRUE
+"Sunday","6:00 AM","Phoenix","a","b",TRUE
+"Sunday","6:00 AM","Pittsburgh","a","b",TRUE
+"Sunday","6:00 AM","Portland","a","b",TRUE
+"Sunday","6:00 AM","Raleigh","a","b",TRUE
+"Sunday","6:00 AM","Sacramento","a","b",TRUE
+"Sunday","6:00 AM","San Francisco","a","b",TRUE
+"Sunday","6:00 AM","Seattle","a","b",TRUE
+"Sunday","6:00 AM","St. Louis","a","b",TRUE
+"Sunday","6:00 AM","Tampa","a","b",TRUE
+"Sunday","6:00 AM","Washington DC","a","b",TRUE
+"Sunday","3:00 PM","Atlanta","a","w",FALSE
+"Friday","3:00 PM","Boston","a","w",FALSE
+"Sunday","5:00 PM","Charlotte","a","w",FALSE
+"Friday","4:00 PM","Chicago","a","w",FALSE
+"Friday","3:00 PM","Cleveland","a","w",FALSE
+"Friday","4:00 PM","Dallas","a","w",FALSE
+"Friday","3:00 PM","Denver","a","w",FALSE
+"Friday","3:00 PM","Detroit","a","w",FALSE
+"Friday","4:00 PM","Houston","a","w",FALSE
+"Friday","4:00 PM","Los Angeles","a","w",FALSE
+"Friday","3:00 PM","Miami","a","w",FALSE
+"Friday","3:00 PM","Minneapolis","a","w",FALSE
+"Sunday","3:00 PM","New York","a","w",FALSE
+"Friday","3:00 PM","Orlando","a","w",FALSE
+"Friday","3:00 PM","Philadelphia","a","w",FALSE
+"Friday","3:00 PM","Phoenix","a","w",FALSE
+"Sunday","3:00 PM","Pittsburgh","a","w",FALSE
+"Friday","4:00 PM","Portland","a","w",FALSE
+"Friday","3:00 PM","Raleigh","a","w",FALSE
+"Friday","4:00 PM","Sacramento","a","w",FALSE
+"Sunday","4:00 PM","San Francisco","a","w",FALSE
+"Friday","4:00 PM","Seattle","a","w",FALSE
+"Friday","3:00 PM","St. Louis","a","w",FALSE
+"Friday","3:00 PM","Tampa","a","w",FALSE
+"Sunday","3:00 PM","Washington DC","a","w",FALSE
+"Sunday","3:00 PM","Atlanta","a","w",TRUE
+"Friday","3:00 PM","Boston","a","w",TRUE
+"Sunday","5:00 PM","Charlotte","a","w",TRUE
+"Friday","4:00 PM","Chicago","a","w",TRUE
+"Friday","3:00 PM","Cleveland","a","w",TRUE
+"Friday","4:00 PM","Dallas","a","w",TRUE
+"Friday","3:00 PM","Denver","a","w",TRUE
+"Friday","3:00 PM","Detroit","a","w",TRUE
+"Friday","4:00 PM","Houston","a","w",TRUE
+"Friday","4:00 PM","Los Angeles","a","w",TRUE
+"Friday","3:00 PM","Miami","a","w",TRUE
+"Friday","3:00 PM","Minneapolis","a","w",TRUE
+"Sunday","3:00 PM","New York","a","w",TRUE
+"Friday","3:00 PM","Orlando","a","w",TRUE
+"Friday","3:00 PM","Philadelphia","a","w",TRUE
+"Friday","3:00 PM","Phoenix","a","w",TRUE
+"Sunday","3:00 PM","Pittsburgh","a","w",TRUE
+"Friday","4:00 PM","Portland","a","w",TRUE
+"Friday","3:00 PM","Raleigh","a","w",TRUE
+"Friday","4:00 PM","Sacramento","a","w",TRUE
+"Sunday","4:00 PM","San Francisco","a","w",TRUE
+"Friday","4:00 PM","Seattle","a","w",TRUE
+"Friday","3:00 PM","St. Louis","a","w",TRUE
+"Friday","3:00 PM","Tampa","a","w",TRUE
+"Sunday","3:00 PM","Washington DC","a","w",TRUE

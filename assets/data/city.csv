@@ -1,0 +1,226 @@
+"city","category","location","rank"
+"Philadelphia","restaurants","Double Knot ",1
+"Philadelphia","restaurants","Umai Umai ",2
+"Philadelphia","restaurants","Yamitsuki ",3
+"Cleveland","restaurants","ABC the Tavern ",1
+"Cleveland","restaurants","Angie's Soul Cafe ",2
+"Cleveland","restaurants","Cibreo Italian Kitchen",3
+"Detroit","restaurants","Duly's Place Coney Island ",1
+"Detroit","restaurants","Basement Burger Bar",2
+"Detroit","restaurants","Rock City Eatery ",3
+"Raleigh","restaurants","City Barbeque & Catering",1
+"Raleigh","restaurants","Margaux's Restaurant ",2
+"Raleigh","restaurants","Vidrio ",3
+"Washington D.C.","restaurants","Sababa ",1
+"Washington D.C.","restaurants","CAVA ",2
+"Washington D.C.","restaurants","Alfa PieHouse ",3
+"Minneapolis","restaurants","The Patty Wagon",1
+"Minneapolis","restaurants","Gyropolis",2
+"Minneapolis","restaurants","Hoban Korean BBQ",3
+"Sacramento","restaurants","The Firehouse restaurant ",1
+"Sacramento","restaurants","Foundation Restaurant & Bar ",2
+"Sacramento","restaurants","Goldfield Trading Post ",3
+"St. Louis","restaurants","Lorenzo's Trattoria ",1
+"St. Louis","restaurants","Pho Long Restaurant ",2
+"St. Louis","restaurants","Gringo Tacos + Burgers ",3
+"Phoenix","restaurants","Taco Guild ",1
+"Phoenix","restaurants","Pizza People Pub",2
+"Phoenix","restaurants","Cherryblossom Noodle cafe",3
+"Tampa","restaurants","Bulla Gastrobar ",1
+"Tampa","restaurants","Charley’s Steak House ",2
+"Tampa","restaurants","Steelbach ",3
+"Chicago","restaurants","Fern ",1
+"Chicago","restaurants","Hawthorne's NY Pizza & Bar Ballantyne",2
+"Chicago","restaurants","Zablong ",3
+"Pittsburgh","restaurants","Arsenal Cider House & Wine Cellar",1
+"Pittsburgh","restaurants","Hal’s Bar & Grill ",2
+"Pittsburgh","restaurants","Savoy Restaurant ",3
+"Denver","restaurants","Giordano's ",1
+"Denver","restaurants","Tocabe ",2
+"Denver","restaurants","Buchi Cafe Cubano ",3
+"Miami","restaurants","NAOE ",1
+"Miami","restaurants","Barsecco ",2
+"Miami","restaurants","Miyako Doral Japanese Restaurant & Sushi Bar",3
+"Charlotte","restaurants","Fern ",1
+"Charlotte","restaurants","Hawthorne's New York Pizza & Bar Ballantyne",2
+"Charlotte","restaurants","Zablong ",3
+"Houston","restaurants","Flying Saucer Pie Company ",1
+"Houston","restaurants","Boston Market",2
+"Houston","restaurants","House of Pies ",3
+"Orlando","restaurants","Saltgrass Steak House",1
+"Orlando","restaurants","Taste Of Chengdu ",2
+"Orlando","restaurants","Tony’s Brazilian Grill ",3
+"Boston","restaurants","Myung Dong 1st Ave ",1
+"Boston","restaurants","Gaga Seafood Restaurant ",2
+"Boston","restaurants","Hong Kong Eatery",3
+"New York","restaurants","Rolf’s ",1
+"New York","restaurants","Mama's TOO! ",2
+"New York","restaurants","Boston Market",3
+"Los Angeles","restaurants","Hoy's Wok Chinese Restaurant",1
+"Los Angeles","restaurants","Feng Mao ",2
+"Los Angeles","restaurants","Mama Hong's Vietnamese Kitchen",3
+"Atlanta","restaurants","Max's Coal Oven Pizzeria",1
+"Atlanta","restaurants","Twisted Soul Cookhouse & Pours",2
+"Atlanta","restaurants","Holeman & Finch Public House",3
+"Seattle","restaurants","Little Tings Dumplings ",1
+"Seattle","restaurants","Harbor City Restaurant ",2
+"Seattle","restaurants","Lionhead ",3
+"Dallas","restaurants","Red Claw Crab Shack",1
+"Dallas","restaurants","La Victoria ",2
+"Dallas","restaurants","Doc B's Restaurant + Bar ",3
+"Portland","restaurants","Pix Patisserie",1
+"Portland","restaurants","Stammtisch ",2
+"Portland","restaurants","The Fireside ",3
+"San Francisco","restaurants","Mozzeria ",1
+"San Francisco","restaurants","Izakaya Sozai ",2
+"San Francisco","restaurants","Fondue Cowboy ",3
+"Philadelphia","attractions","Blue Cross RiverRink ",1
+"Philadelphia","attractions","Philadelphia Museum of Art ",2
+"Philadelphia","attractions","Museum of the American Revolution",3
+"Cleveland","attractions","A Christmas Story House ",1
+"Cleveland","attractions","Crawford Auto Aviation Museum",2
+"Cleveland","attractions","Steamship William G. Mather Museum",3
+"Detroit","attractions","Campus Martius Park ",1
+"Detroit","attractions","Cadillac Square Park ",2
+"Detroit","attractions","Motown Museum ",3
+"Raleigh","attractions","Dorothea Dix Park ",1
+"Raleigh","attractions","Marbles Kids Museum",2
+"Raleigh","attractions","Sassafras All Children's Playground ",3
+"Washington D.C.","attractions","National Christmas Tree",1
+"Washington D.C.","attractions","Smithsonian National Air & Space Museum",2
+"Washington D.C.","attractions","Smithsonian National Museum of African Art",3
+"Minneapolis","attractions","Walker Art Center ",1
+"Minneapolis","attractions","Spoonbridge & Cherry sculpture ",2
+"Minneapolis","attractions","Guthrie Theater",3
+"Sacramento","attractions","California State Railroad Museum",1
+"Sacramento","attractions","Sacramento History Museum",2
+"Sacramento","attractions","Powerhouse Science Center",3
+"St. Louis","attractions","Old Courthouse",1
+"St. Louis","attractions","Steinberg Skating Rink",2
+"St. Louis","attractions","Crestwood Bowl ",3
+"Phoenix","attractions","Echo Canyon Trailhead",1
+"Phoenix","attractions","Phoenix Zoo",2
+"Phoenix","attractions","Dreamy Draw Recreation Area ",3
+"Tampa","attractions","Ballast Point Park ",1
+"Tampa","attractions","Grand Prix Tampa ",2
+"Tampa","attractions","Glazer Children's Museum",3
+"Chicago","attractions","Freedom Park - turkey trot",1
+"Chicago","attractions","Charlotte Christmas Village",2
+"Chicago","attractions","McAlpine Creek Park",3
+"Pittsburgh","attractions","Cathedral of Learning ",1
+"Pittsburgh","attractions","Carnegie Museum of Natural History",2
+"Pittsburgh","attractions","Carnegie Science Center",3
+"Denver","attractions","Redline Art Center",1
+"Denver","attractions","RiNo Art District ",2
+"Denver","attractions","ROOM 5280 Escape Room",3
+"Miami","attractions","Shark Valley ",1
+"Miami","attractions","Historic Virginia Key Beach Park ",2
+"Miami","attractions","Zoological Wildlife Foundation ",3
+"Charlotte","attractions","Freedom Park - turkey trot",1
+"Charlotte","attractions","Charlotte Christmas Village",2
+"Charlotte","attractions","McAlpine Creek Park",3
+"Houston","attractions","1940 Air Terminal Museum",1
+"Houston","attractions","Lone Star Flight Museum",2
+"Houston","attractions","Holocaust Museum Houston",3
+"Orlando","attractions","SKELETONS: Museum Of Osteology ",1
+"Orlando","attractions","Madame Tussauds",2
+"Orlando","attractions","Arcade City",3
+"Boston","attractions","Basilica of Our Lady of Perpetual Help",1
+"Boston","attractions","St. Stephen's Catholic Church",2
+"Boston","attractions","Cathedral of the Holy Cross",3
+"New York","attractions","Statue of Liberty",1
+"New York","attractions","Pier 78 ",2
+"New York","attractions","Radio City Music Hall",3
+"Los Angeles","attractions","Capitol Records ",1
+"Los Angeles","attractions","Griffith Park Train Rides ",2
+"Los Angeles","attractions","Secret Swing, Elysian Park ",3
+"Atlanta","attractions","Georgia Aquarium",1
+"Atlanta","attractions","World of Coca-Cola",2
+"Atlanta","attractions","Zoo Atlanta",3
+"Seattle","attractions","Wings Over Washington ",1
+"Seattle","attractions","Seattle Children’s Museum",2
+"Seattle","attractions","The Seattle Great Wheel ",3
+"Dallas","attractions","White Rock Lake Dog Park",1
+"Dallas","attractions","Bachman Lake Park",2
+"Dallas","attractions","Wagging Tail Dog Park",3
+"Portland","attractions","Peninsula Park Rose Garden",1
+"Portland","attractions","St. Johns Bridge",2
+"Portland","attractions","Witch's Castle ",3
+"San Francisco","attractions","California Academy of Sciences",1
+"San Francisco","attractions","Lands End Labyrinth",2
+"San Francisco","attractions","de Young Museum",3
+"Philadelphia","shopping","Christmas Village, LOVE Park",1
+"Philadelphia","shopping","Fine Wine & Good Spirits",2
+"Philadelphia","shopping","Macy’s",3
+"Cleveland","shopping","Depot Train & Hobby ",1
+"Cleveland","shopping","XHIBITION ",2
+"Cleveland","shopping","Tink Holl ",3
+"Detroit","shopping","Shinola ",1
+"Detroit","shopping","Detroit Denim Company ",2
+"Detroit","shopping","Filson ",3
+"Raleigh","shopping","Hobby Lobby ",1
+"Raleigh","shopping","Best Buy",2
+"Raleigh","shopping","Northern Tool + Equipment ",3
+"Washington D.C.","shopping","Downtown Holiday Market ",1
+"Washington D.C.","shopping","Lord + Taylor",2
+"Washington D.C.","shopping","Gucci",3
+"Minneapolis","shopping","Kitchen Window ",1
+"Minneapolis","shopping","Ingebretsen's Scandinavian Gifts & Foods ",2
+"Minneapolis","shopping","Cub Foods",3
+"Sacramento","shopping","The HoneyBaked Ham Co.",1
+"Sacramento","shopping","Real Pie Company",2
+"Sacramento","shopping","Trader Joes",3
+"St. Louis","shopping","Schucks ",1
+"St. Louis","shopping","Best Buy",2
+"St. Louis","shopping","Fields Foods ",3
+"Phoenix","shopping","Best Buy",1
+"Phoenix","shopping","Cowtown Boots",2
+"Phoenix","shopping","Zia Records",3
+"Tampa","shopping","Lowe’s",1
+"Tampa","shopping","Best Buy",2
+"Tampa","shopping","Crate & Barrel",3
+"Chicago","shopping","Total Wine & More",1
+"Chicago","shopping","Morrison Smith Fine & Custom Jewelers",2
+"Chicago","shopping","Macy’s",3
+"Pittsburgh","shopping","Ross Park Mall",1
+"Pittsburgh","shopping","Station Square ",2
+"Pittsburgh","shopping","Fifth Avenue Place ",3
+"Denver","shopping","Macy's",1
+"Denver","shopping","H&M",2
+"Denver","shopping","Safeway",3
+"Miami","shopping","The Home Depot",1
+"Miami","shopping","Target",2
+"Miami","shopping","Zara",3
+"Charlotte","shopping","Total Wine & More",1
+"Charlotte","shopping","Morrison Smith Fine & Custom Jewelers",2
+"Charlotte","shopping","Macy’s",3
+"Houston","shopping","Best Buy",1
+"Houston","shopping","Gordy & Sons ",2
+"Houston","shopping","Trader Joe’s",3
+"Orlando","shopping","The Florida Mall",1
+"Orlando","shopping","Orlando Premium Outlets",2
+"Orlando","shopping","The Mall at Millenia ",3
+"Boston","shopping","Canada Goose Boston",1
+"Boston","shopping","MAC Cosmetics",2
+"Boston","shopping","JCrew",3
+"New York","shopping","NikeTown New York",1
+"New York","shopping","FAO Schwarz",2
+"New York","shopping","Macy's",3
+"Los Angeles","shopping","Golf Wang ",1
+"Los Angeles","shopping","Union ",2
+"Los Angeles","shopping","Gucci",3
+"Atlanta","shopping","GameStop",1
+"Atlanta","shopping","Barnes & Noble",2
+"Atlanta","shopping","Sam Ash Music Stores",3
+"Seattle","shopping","Best Buy",1
+"Seattle","shopping","Whole Foods",2
+"Seattle","shopping","H Mart ",3
+"Dallas","shopping","North Pole Christmas Trees",1
+"Dallas","shopping","NorthPark Mall",2
+"Dallas","shopping","West Village ",3
+"Portland","shopping","The LEGO Store",1
+"Portland","shopping","Hollywood Beverage ",2
+"Portland","shopping","The Dr. Martens Store",3
+"San Francisco","shopping","The North Face ",1
+"San Francisco","shopping","Blick Art Materials",2
+"San Francisco","shopping","The Fatted Calf",3
